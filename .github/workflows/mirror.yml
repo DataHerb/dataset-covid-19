@@ -26,11 +26,13 @@ jobs:
         run: |
           pwd
           ls
+          ls COVID-19
+          ls dataset-covid-19
       - name: Copy CSSEGISandData/COVID-19 content
         run: |
-          mkdir -p dataset-covid-19/csse_covid_19_data
-          cp -r COVID-19/csse_covid_19_data/* dataset-covid-19/csse_covid_19_data/
-          ls -lhtr dataset-covid-19/csse_covid_19_data/
+          mkdir -p dataset-covid-19/csse_covid_19_time_series
+          cp -r COVID-19/csse_covid_19_data/csse_covid_19_time_series/* dataset-covid-19/csse_covid_19_time_series/
+          ls -lhtr dataset-covid-19/csse_covid_19_time_series/
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
