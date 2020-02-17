@@ -1,0 +1,39 @@
+name: CI Mirror CSSEGISandData/COVID-19
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron:  '* 7 * * *'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout current repo
+        uses: actions/checkout@v2
+        with:
+          token: $${{ github.token }}
+          path: dataset-covid-19
+      - name: Checkout CSSEGISandData/COVID-19
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+          repository: CSSEGISandData/COVID-19
+          path: COVID-19
+      - name: Get current directory and files
+        run: |
+          pwd
+          ls
+      - name: Copy CSSEGISandData/COVID-19 content
+        run: |
+          mkdir -p dataset-covid-19/csse_covid_19_data
+          cp COVID-19/csse_covid_19_data/* dataset-covid-19/csse_covid_19_data
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          repository: DataHerb/dataset-covid-19
+          directory: dataset-covid-19
