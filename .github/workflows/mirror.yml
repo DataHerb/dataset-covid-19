@@ -35,3 +35,4 @@ jobs:
         with:
           repository: DataHerb/dataset-covid-19
           directory: dataset-covid-19
+          github_token: ${{ secrets.GITHUB_TOKEN }}
