@@ -29,7 +29,7 @@ jobs:
       - name: Copy CSSEGISandData/COVID-19 content
         run: |
           mkdir -p dataset-covid-19/csse_covid_19_data
-          cp COVID-19/csse_covid_19_data/* dataset-covid-19/csse_covid_19_data
+          cp -r COVID-19/csse_covid_19_data/* dataset-covid-19/csse_covid_19_data
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
