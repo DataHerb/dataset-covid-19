@@ -33,6 +33,11 @@ jobs:
           mkdir -p dataset-covid-19/csse_covid_19_time_series
           cp -r COVID-19/csse_covid_19_data/csse_covid_19_time_series/* dataset-covid-19/csse_covid_19_time_series/
           ls -lhtr dataset-covid-19/csse_covid_19_time_series/
+          cd dataset-covid-19
+          ls 
+          git add .
+          git commit -m "Update Dataset" || echo "Nothing to update"
+          git status
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
