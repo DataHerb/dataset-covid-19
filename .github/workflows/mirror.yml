@@ -35,6 +35,9 @@ jobs:
           ls -lhtr dataset-covid-19/csse_covid_19_time_series/
           cd dataset-covid-19
           ls 
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git status
           git add .
           git commit -m "Update Dataset" || echo "Nothing to update"
           git status
