@@ -16,12 +16,10 @@ jobs:
       - name: Checkout current repo
         uses: actions/checkout@v2
         with:
-          token: $${{ github.token }}
           path: dataset-covid-19
       - name: Checkout CSSEGISandData/COVID-19
         uses: actions/checkout@v2
         with:
-          token: ${{ github.token }}
           repository: CSSEGISandData/COVID-19
           path: COVID-19
       - name: Get current directory and files
