@@ -1,8 +1,8 @@
 name: 'COVID-19 Timeseries of Confirmed, Death, and Recovered'
 description: 'COVID-19 Timeseries of Confirmed, Death, and Recovered from CSSEGI. This is a mirror of part of the repository CSSEGISandData/COVID-19'
 contributors:
-- github: 'DataHerb'
-  name: 'DataHerb'
+- github: 'CSSEGISandData'
+  name: 'CSSEGISandData'
 data:
 - name: 'comfirmed cases in csv format'
   path: 'csse_covid_19_time_series/time_series_19-covid-Confirmed.csv'
