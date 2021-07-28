@@ -20353,3 +20353,25 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 07/27/2021,time_series_covid19_confirmed_US.csv,"Vega Baja, Puerto Rico, US",07/26/2021,3019,3020,"Correct Puerto Rico, US confirmed data"
 07/27/2021,time_series_covid19_confirmed_US.csv,"Yauco, Puerto Rico, US",07/26/2021,855,863,"Correct Puerto Rico, US confirmed data"
 07/27/2021,time_series_covid19_deaths_US.csv,"Unassigned, Puerto Rico, US",07/26/2021,2568,2569,"Correct Puerto Rico, US deaths data"
+07/27/2021,time_series_covid19_confirmed_global.csv,Oman,07/25/2021,289042,293954,Correct Oman confirmed data
+07/27/2021,time_series_covid19_deaths_global.csv,Oman,07/25/2021,3498,3753,Correct Oman deaths data
+07/27/2021,time_series_covid19_recovered_global.csv,Oman,07/25/2021,263752,275760,Correct Oman recovered data
+07/27/2021,time_series_covid19_confirmed_global.csv,Malaysia,07/09/2020,8683,8689,Correct Malaysia confirmed data
+07/27/2021,time_series_covid19_confirmed_global.csv,Malaysia,07/10/2020,8696,8697,Correct Malaysia confirmed data
+07/27/2021,time_series_covid19_confirmed_global.csv,Malaysia,07/11/2020,8704,8706,Correct Malaysia confirmed data
+07/27/2021,time_series_covid19_confirmed_global.csv,Malaysia,08/12/2020,9114,9115,Correct Malaysia confirmed data
+07/27/2021,time_series_covid19_confirmed_global.csv,Malaysia,08/13/2020,9129,9130,Correct Malaysia confirmed data
+07/27/2021,time_series_covid19_confirmed_global.csv,Malaysia,08/17/2020,9212,9215,Correct Malaysia confirmed data
+07/27/2021,time_series_covid19_confirmed_global.csv,Malaysia,12/28/2020,106690,106692,Correct Malaysia confirmed data
+07/27/2021,time_series_covid19_confirmed_global.csv,Malaysia,01/07/2021,128465,128848,Correct Malaysia confirmed data
+07/27/2021,time_series_covid19_confirmed_global.csv,Malaysia,06/13/2021,657508,657535,Correct Malaysia confirmed data
+07/27/2021,time_series_covid19_deaths_global.csv,Malaysia,03/21/2020,4,8,Correct Malaysia deaths data
+07/27/2021,time_series_covid19_deaths_global.csv,Malaysia,05/21/2020,114,115,Correct Malaysia deaths data
+07/27/2021,time_series_covid19_deaths_global.csv,Malaysia,08/29/2020,125,126,Correct Malaysia deaths data
+07/27/2021,time_series_covid19_deaths_global.csv,Malaysia,08/30/2020,126,127,Correct Malaysia deaths data
+07/27/2021,time_series_covid19_deaths_global.csv,Malaysia,10/03/2020,137,139,Correct Malaysia deaths data
+07/27/2021,time_series_covid19_deaths_global.csv,Malaysia,10/04/2020,137,138,Correct Malaysia deaths data
+07/27/2021,time_series_covid19_deaths_global.csv,Malaysia,10/05/2020,137,138,Correct Malaysia deaths data
+07/27/2021,time_series_covid19_deaths_global.csv,Malaysia,10/06/2020,141,142,Correct Malaysia deaths data
+07/27/2021,time_series_covid19_deaths_global.csv,Malaysia,10/07/2020,141,145,Correct Malaysia deaths data
+07/27/2021,time_series_covid19_deaths_global.csv,Malaysia,10/08/2020,146,148,Correct Malaysia deaths data
