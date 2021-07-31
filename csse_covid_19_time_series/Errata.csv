@@ -20461,3 +20461,61 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 07/30/2021,time_series_covid19_deaths_US.csv,"Randolph, West Virginia, US",07/29/2021,15,17,"Correct West Virginia, US deaths data"
 07/30/2021,time_series_covid19_confirmed_global.csv,US,07/29/2021,34750605,34750860,Correct US confirmed data
 07/30/2021,time_series_covid19_deaths_global.csv,US,07/29/2021,612117,612122,Correct US deaths data
+07/30/2021,time_series_covid19_confirmed_global.csv,Honduras,07/16/2021,277974,279257,Correct Honduras confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Honduras,07/17/2021,277974,279257,Correct Honduras confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Honduras,07/18/2021,277974,279257,Correct Honduras confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Honduras,07/19/2021,277974,281604,Correct Honduras confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Honduras,07/26/2021,286635,290447,Correct Honduras confirmed data
+07/30/2021,time_series_covid19_deaths_global.csv,Honduras,07/16/2021,7391,7427,Correct Honduras deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Honduras,07/17/2021,7391,7427,Correct Honduras deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Honduras,07/18/2021,7391,7427,Correct Honduras deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Honduras,07/19/2021,7391,7482,Correct Honduras deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Honduras,07/26/2021,7594,7650,Correct Honduras deaths data
+07/30/2021,time_series_covid19_recovered_global.csv,Honduras,07/16/2021,95311,95839,Correct Honduras recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Honduras,07/17/2021,95311,95839,Correct Honduras recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Honduras,07/18/2021,95311,95839,Correct Honduras recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Honduras,07/19/2021,95311,96098,Correct Honduras recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Honduras,07/26/2021,97430,97711,Correct Honduras recovered data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,06/30/2021,486106,487592,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/01/2021,486106,489126,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/12/2021,501195,502439,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/14/2021,503734,504960,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/15/2021,503734,506125,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/17/2021,507423,508521,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/18/2021,507423,509576,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/19/2021,507423,510869,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/20/2021,507423,512142,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/22/2021,513284,514446,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/23/2021,513284,515693,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/24/2021,513284,516949,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/26/2021,518143,519395,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_confirmed_global.csv,Saudi Arabia,07/27/2021,518143,520774,Correct Saudi Arabia confirmed data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,06/30/2021,7804,7819,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/01/2021,7804,7832,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/12/2021,7976,7992,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/14/2021,8006,8020,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/15/2021,8006,8035,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/17/2021,8048,8063,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/18/2021,8048,8075,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/19/2021,8048,8089,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/20/2021,8048,8103,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/22/2021,8115,8130,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/23/2021,8115,8141,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/24/2021,8115,8155,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/26/2021,8167,8179,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_deaths_global.csv,Saudi Arabia,07/27/2021,8167,8189,Correct Saudi Arabia deaths data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,06/30/2021,466578,467633,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/01/2021,466578,469120,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/12/2021,482414,483937,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/14/2021,484883,486011,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/15/2021,484883,486918,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/16/2021,488346,488883,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/17/2021,488346,489553,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/18/2021,488346,490696,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/19/2021,488346,492149,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/20/2021,488346,493240,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/22/2021,494264,495650,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/23/2021,494264,496810,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/24/2021,494264,497965,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/26/2021,499129,500428,Correct Saudi Arabia recovered data
+07/30/2021,time_series_covid19_recovered_global.csv,Saudi Arabia,07/27/2021,499129,501449,Correct Saudi Arabia recovered data
