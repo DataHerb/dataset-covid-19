@@ -21195,3 +21195,46 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 08/06/2021,time_series_covid19_deaths_global.csv,Peru,08/05/2021,196673,196760,Correct Peru deaths data
 08/06/2021,time_series_covid19_confirmed_global.csv,South Africa,07/28/2021,2391223,2408525,Correct South Africa confirmed data
 08/06/2021,time_series_covid19_deaths_global.csv,South Africa,07/28/2021,70338,70908,Correct South Africa deaths data
+08/15/2021,time_series_covid19_confirmed_US.csv,"Apache, Arizona, US",08/14/2021,11965,12022,"Update stale Arizona, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"Cochise, Arizona, US",08/14/2021,12604,12625,"Update stale Arizona, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"Coconino, Arizona, US",08/14/2021,19069,19128,"Update stale Arizona, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"Gila, Arizona, US",08/14/2021,7590,7614,"Update stale Arizona, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"Graham, Arizona, US",08/14/2021,5792,5810,"Update stale Arizona, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"Greenlee, Arizona, US",08/14/2021,643,645,"Update stale Arizona, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"La Paz, Arizona, US",08/14/2021,2622,2625,"Update stale Arizona, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"Maricopa, Arizona, US",08/14/2021,604387,606753,"Update stale Arizona, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"Mohave, Arizona, US",08/14/2021,26641,26717,"Update stale Arizona, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"Navajo, Arizona, US",08/14/2021,17685,17727,"Update stale Arizona, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"Pima, Arizona, US",08/14/2021,122635,122934,"Update stale Arizona, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"Pinal, Arizona, US",08/14/2021,59009,59250,"Update stale Arizona, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"Santa Cruz, Arizona, US",08/14/2021,8314,8328,"Update stale Arizona, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"Yavapai, Arizona, US",08/14/2021,21897,22028,"Update stale Arizona, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"Yuma, Arizona, US",08/14/2021,38138,38203,"Update stale Arizona, US confirmed data"
+08/15/2021,time_series_covid19_deaths_US.csv,"Cochise, Arizona, US",08/14/2021,299,300,"Update stale Arizona, US death data"
+08/15/2021,time_series_covid19_deaths_US.csv,"Gila, Arizona, US",08/14/2021,239,240,"Update stale Arizona, US death data"
+08/15/2021,time_series_covid19_deaths_US.csv,"Maricopa, Arizona, US",08/14/2021,10575,10587,"Update stale Arizona, US death data"
+08/15/2021,time_series_covid19_deaths_US.csv,"Mohave, Arizona, US",08/14/2021,813,819,"Update stale Arizona, US death data"
+08/15/2021,time_series_covid19_deaths_US.csv,"Pima, Arizona, US",08/14/2021,2468,2470,"Update stale Arizona, US death data"
+08/15/2021,time_series_covid19_deaths_US.csv,"Pinal, Arizona, US",08/14/2021,928,930,"Update stale Arizona, US death data"
+08/15/2021,time_series_covid19_deaths_US.csv,"Yavapai, Arizona, US",08/14/2021,556,558,"Update stale Arizona, US death data"
+08/15/2021,time_series_covid19_deaths_US.csv,"Yuma, Arizona, US",08/14/2021,854,855,"Update stale Arizona, US death data"
+08/15/2021,time_series_covid19_confirmed_global.csv,US,08/14/2021,36636853,36640271,"Correct Arizona, US confirmed data"
+08/15/2021,time_series_covid19_deaths_global.csv,US,08/14/2021,621226,621253,"Correct Arizona, US deaths data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"Burleigh, North Dakota, US",08/09/2021,16299,16311,"Update stale Nebraska, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"Cass, North Dakota, US",08/09/2021,25108,25126,"Update stale Nebraska, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"Grand Forks, North Dakota, US",08/09/2021,10804,10812,"Update stale Nebraska, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"McKenzie, North Dakota, US",08/09/2021,1501,1503,"Update stale Nebraska, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"McLean, North Dakota, US",08/09/2021,1323,1324,"Update stale Nebraska, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"Mercer, North Dakota, US",08/09/2021,1183,1184,"Update stale Nebraska, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"Morton, North Dakota, US",08/09/2021,5440,5447,"Update stale Nebraska, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"Stutsman, North Dakota, US",08/09/2021,3587,3588,"Update stale Nebraska, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"Traill, North Dakota, US",08/09/2021,1061,1062,"Update stale Nebraska, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_US.csv,"Ward, North Dakota, US",08/09/2021,10273,10279,"Update stale Nebraska, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_global.csv,US,08/09/2021,35948131,35948188,"Correct Nebraska, US confirmed data"
+08/15/2021,time_series_covid19_confirmed_global.csv,France,08/09/2021,6208172,6211471,Correct stale France confirmed data
+08/15/2021,time_series_covid19_confirmed_global.csv,France,08/13/2021,6288585,6314823,Correct stale France confirmed data
+08/15/2021,time_series_covid19_confirmed_global.csv,France,08/14/2021,6288585,6339250,Correct stale France confirmed data
+08/15/2021,time_series_covid19_deaths_global.csv,France,08/02/2021,110860,110881,Correct stale France deaths data
+08/15/2021,time_series_covid19_deaths_global.csv,France,08/09/2021,111110,111164,Correct stale France deaths data
+08/15/2021,time_series_covid19_deaths_global.csv,France,08/13/2021,111324,111397,Correct stale France deaths data
+08/15/2021,time_series_covid19_deaths_global.csv,France,08/14/2021,111324,111448,Correct stale France deaths data
