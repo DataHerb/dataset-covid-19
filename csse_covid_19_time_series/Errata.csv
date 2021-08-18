@@ -21238,3 +21238,5 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 08/15/2021,time_series_covid19_deaths_global.csv,France,08/09/2021,111110,111164,Correct stale France deaths data
 08/15/2021,time_series_covid19_deaths_global.csv,France,08/13/2021,111324,111397,Correct stale France deaths data
 08/15/2021,time_series_covid19_deaths_global.csv,France,08/14/2021,111324,111448,Correct stale France deaths data
+08/17/2021,time_series_covid19_confirmed_global.csv,Australia,08/16/2021,152,169,Correct Australia confirmed data
+08/17/2021,time_series_covid19_confirmed_global.csv,US,08/16/2021,36888921,36888952,Correct US confirmed data
