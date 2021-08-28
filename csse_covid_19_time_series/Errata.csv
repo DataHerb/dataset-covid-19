@@ -22471,3 +22471,8 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 08/25/2021,time_series_covid19_deaths_global.csv,Canada,08/22/2021,9418,9453,Correct Ontario deaths data
 08/25/2021,time_series_covid19_deaths_global.csv,Canada,08/23/2021,9418,9453,Correct Ontario deaths data
 08/25/2021,time_series_covid19_deaths_global.csv,Canada,08/24/2021,9420,9471,Correct Ontario deaths data
+08/27/2021,time_series_covid19_confirmed_global.csv,New Zealand,08/26/2021,3227,3297,Correct New Zealand confirmed data
+08/27/2021,time_series_covid19_confirmed_global.csv,Peru,08/25/2021,2143691,2145051,Correct Peru confirmed data
+08/27/2021,time_series_covid19_confirmed_global.csv,Peru,08/26/2021,2143691,2146169,Correct Peru confirmed data
+08/27/2021,time_series_covid19_deaths_global.csv,Peru,08/25/2021,197944,198031,Correct Peru deaths data
+08/27/2021,time_series_covid19_deaths_global.csv,Peru,08/26/2021,198031,198064,Correct Peru deaths data
