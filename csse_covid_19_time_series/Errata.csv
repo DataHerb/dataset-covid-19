@@ -22476,3 +22476,229 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 08/27/2021,time_series_covid19_confirmed_global.csv,Peru,08/26/2021,2143691,2146169,Correct Peru confirmed data
 08/27/2021,time_series_covid19_deaths_global.csv,Peru,08/25/2021,197944,198031,Correct Peru deaths data
 08/27/2021,time_series_covid19_deaths_global.csv,Peru,08/26/2021,198031,198064,Correct Peru deaths data
+08/30/2021,time_series_covid19_confirmed_global.csv,Turkey,08/29/2021,6329519,6346851,Correct Turkey confirmed data
+08/30/2021,time_series_covid19_deaths_global.csv,Turkey,08/29/2021,55958,56213,Correct Turkey deaths data
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",12/17/2020,1878,1900,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",12/18/2020,1900,1910,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",12/19/2020,1910,1921,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",12/22/2020,1934,1950,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",12/23/2020,1950,1967,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",12/29/2020,1979,2010,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",12/30/2020,2010,2031,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",12/31/2020,2031,2036,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",01/06/2021,2083,2106,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",01/11/2021,2143,2166,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",01/15/2021,2166,2252,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",01/16/2021,2166,2252,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",01/21/2021,2305,2321,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",01/22/2021,2321,2335,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",01/29/2021,2398,2407,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",01/30/2021,2398,2421,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",01/31/2021,2398,2421,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",02/02/2021,2426,2430,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",02/03/2021,2430,2440,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",02/06/2021,2449,2466,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",02/08/2021,2466,2473,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",02/10/2021,2485,2505,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",02/11/2021,2505,2524,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",02/14/2021,2524,2542,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",02/17/2021,2545,2558,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",02/20/2021,2575,2579,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",02/21/2021,2575,2579,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",02/22/2021,2579,2589,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",03/02/2021,2646,2695,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",03/04/2021,2704,2714,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",03/05/2021,2714,2724,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",03/06/2021,2714,2735,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",03/07/2021,2714,2735,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",03/09/2021,2744,2755,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",03/10/2021,2755,2761,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",03/17/2021,2767,2803,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",03/18/2021,2767,2819,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",03/19/2021,2767,2848,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",03/20/2021,2767,2852,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",03/21/2021,2767,2858,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",03/22/2021,2767,2858,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",03/23/2021,2767,2876,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",03/27/2021,2901,2907,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",04/01/2021,2907,2931,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",04/02/2021,2907,2931,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",04/03/2021,2907,2931,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",04/04/2021,2907,2939,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",04/07/2021,2945,2954,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",04/12/2021,2998,3005,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",04/15/2021,3022,3028,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",04/21/2021,3041,3044,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",04/23/2021,3068,3080,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",04/24/2021,3068,3080,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",04/25/2021,3068,3080,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",04/28/2021,3093,3098,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",04/29/2021,3093,3098,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",05/01/2021,3125,3138,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",05/05/2021,3152,3178,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",05/07/2021,3152,3210,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",05/09/2021,3210,3223,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",05/16/2021,3267,3270,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",05/17/2021,3267,3270,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",05/19/2021,3288,3308,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",05/23/2021,3308,3353,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",05/25/2021,3383,3399,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",05/27/2021,3399,3442,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/02/2021,3512,3539,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/03/2021,3512,3560,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/04/2021,3512,3560,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/05/2021,3512,3591,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/06/2021,3512,3591,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/07/2021,3560,3591,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/14/2021,3702,3717,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/15/2021,3717,3729,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/16/2021,3729,3747,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/17/2021,3747,3752,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/18/2021,3752,3764,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/19/2021,3752,3768,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/20/2021,3752,3768,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/21/2021,3772,3774,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/22/2021,3772,3810,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/23/2021,3772,3819,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/24/2021,3772,3835,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/25/2021,3835,3839,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/26/2021,3835,3844,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/27/2021,3835,3844,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/28/2021,3839,3850,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",06/30/2021,3858,3879,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",07/02/2021,3895,3902,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",07/03/2021,3895,3916,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",07/04/2021,3895,3916,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",07/05/2021,3895,3916,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",07/06/2021,3895,3942,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",07/08/2021,3970,3985,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",07/10/2021,4005,4033,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",07/11/2021,4005,4033,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",07/12/2021,4033,4043,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",07/13/2021,4043,4071,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",07/14/2021,4043,4104,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",07/17/2021,4160,4186,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",07/18/2021,4160,4186,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",08/09/2021,4960,5033,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",08/10/2021,4960,5066,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",08/12/2021,5093,5169,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_confirmed_US.csv,"Virgin Islands, US",08/20/2021,5556,5594,"Correct Virgin Islands, US confirmed data"
+08/30/2021,time_series_covid19_deaths_US.csv,"Virgin Islands, US",02/10/2021,24,25,"Correct Virgin Islands, US deaths data"
+08/30/2021,time_series_covid19_deaths_US.csv,"Virgin Islands, US",06/14/2021,28,29,"Correct Virgin Islands, US deaths data"
+08/30/2021,time_series_covid19_deaths_US.csv,"Virgin Islands, US",06/15/2021,29,30,"Correct Virgin Islands, US deaths data"
+08/30/2021,time_series_covid19_deaths_US.csv,"Virgin Islands, US",08/10/2021,40,41,"Correct Virgin Islands, US deaths data"
+08/30/2021,time_series_covid19_deaths_US.csv,"Virgin Islands, US",08/20/2021,44,45,"Correct Virgin Islands, US deaths data"
+08/30/2021,time_series_covid19_confirmed_global.csv,US,12/17/2020,17323704,17323726,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,12/18/2020,17575536,17575546,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,12/19/2020,17767638,17767649,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,12/22/2020,18352463,18352479,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,12/23/2020,18582087,18582104,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,12/29/2020,19630943,19630974,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,12/30/2020,19864644,19864665,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,12/31/2020,20100244,20100249,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,01/06/2021,21438159,21438182,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,01/11/2021,22700799,22700822,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,01/15/2021,23636613,23636699,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,01/16/2021,23838471,23838557,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,01/21/2021,24713333,24713349,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,01/22/2021,24904093,24904107,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,01/29/2021,25994731,25994740,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,01/30/2021,26137190,26137213,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,01/31/2021,26249342,26249365,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,02/02/2021,26499620,26499624,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,02/03/2021,26621311,26621321,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,02/06/2021,26983915,26983932,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,02/08/2021,27164099,27164106,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,02/10/2021,27354614,27354634,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,02/11/2021,27460378,27460397,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,02/14/2021,27712402,27712420,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,02/17/2021,27899318,27899331,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,02/20/2021,28120207,28120211,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,02/21/2021,28177359,28177363,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,02/22/2021,28233518,28233528,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,03/02/2021,28766634,28766683,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,03/04/2021,28901885,28901895,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,03/05/2021,28968304,28968314,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,03/06/2021,29026558,29026579,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,03/07/2021,29067631,29067652,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,03/09/2021,29170215,29170226,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,03/10/2021,29228110,29228116,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,03/17/2021,29613232,29613268,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,03/18/2021,29673607,29673659,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,03/19/2021,29735258,29735339,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,03/20/2021,29790777,29790862,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,03/21/2021,29824599,29824690,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,03/22/2021,29876035,29876126,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,03/23/2021,29929723,29929832,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,03/27/2021,30224426,30224432,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,04/01/2021,30544235,30544259,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,04/02/2021,30614122,30614146,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,04/03/2021,30677383,30677407,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,04/04/2021,30712516,30712548,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,04/07/2021,30925615,30925624,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,04/12/2021,31271490,31271497,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,04/15/2021,31499167,31499173,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,04/21/2021,31865800,31865803,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,04/23/2021,31995489,31995501,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,04/24/2021,32048984,32048996,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,04/25/2021,32081137,32081149,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,04/28/2021,32234691,32234696,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,04/29/2021,32292942,32292947,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,05/01/2021,32396252,32396265,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,05/05/2021,32561573,32561599,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,05/07/2021,32657260,32657318,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,05/09/2021,32712362,32712375,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,05/16/2021,32944716,32944719,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,05/17/2021,32973337,32973340,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,05/19/2021,33030427,33030447,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,05/23/2021,33121245,33121290,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,05/25/2021,33169799,33169815,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,05/27/2021,33221223,33221266,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/02/2021,33307449,33307476,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/03/2021,33326529,33326577,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/04/2021,33343379,33343427,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/05/2021,33357285,33357364,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/06/2021,33362680,33362759,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/07/2021,33378176,33378207,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/14/2021,33474815,33474830,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/15/2021,33486120,33486132,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/16/2021,33498545,33498563,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/17/2021,33508938,33508943,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/18/2021,33529529,33529541,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/19/2021,33538049,33538065,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/20/2021,33541941,33541957,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/21/2021,33554275,33554277,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/22/2021,33565215,33565253,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/23/2021,33577651,33577698,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/24/2021,33590481,33590544,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/25/2021,33614196,33614200,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/26/2021,33621499,33621508,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/27/2021,33625419,33625428,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/28/2021,33640502,33640513,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,06/30/2021,33664970,33664991,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,07/02/2021,33709325,33709332,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,07/03/2021,33714064,33714085,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,07/04/2021,33717761,33717782,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,07/05/2021,33723289,33723310,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,07/06/2021,33747513,33747560,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,07/08/2021,33790505,33790520,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,07/10/2021,33847784,33847812,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,07/11/2021,33853948,33853976,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,07/12/2021,33888961,33888971,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,07/13/2021,33915385,33915413,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,07/14/2021,33947230,33947291,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,07/17/2021,34067912,34067938,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,07/18/2021,34079960,34079986,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,08/09/2021,35948188,35948261,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,08/10/2021,36055002,36055108,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,08/12/2021,36306724,36306800,Correct US confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,US,08/20/2021,37613597,37613635,Correct US confirmed data
+08/30/2021,time_series_covid19_deaths_global.csv,US,02/10/2021,478074,478075,Correct US deaths data
+08/30/2021,time_series_covid19_deaths_global.csv,US,06/14/2021,599956,599957,Correct US deaths data
+08/30/2021,time_series_covid19_deaths_global.csv,US,06/15/2021,600277,600278,Correct US deaths data
+08/30/2021,time_series_covid19_deaths_global.csv,US,08/10/2021,618236,618237,Correct US deaths data
+08/30/2021,time_series_covid19_deaths_global.csv,US,08/20/2021,627843,627844,Correct US deaths data
+08/30/2021,time_series_covid19_confirmed_global.csv,Peru,08/27/2021,2143691,2147285,Correct Peru confirmed data
+08/30/2021,time_series_covid19_confirmed_global.csv,Peru,08/28/2021,2143691,2147285,Correct Peru confirmed data
+08/30/2021,time_series_covid19_deaths_global.csv,Peru,08/27/2021,198031,198115,Correct Peru deaths data
+08/30/2021,time_series_covid19_deaths_global.csv,Peru,08/28/2021,198031,198115,Correct Peru deaths data
