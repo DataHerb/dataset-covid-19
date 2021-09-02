@@ -22702,3 +22702,598 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 08/30/2021,time_series_covid19_confirmed_global.csv,Peru,08/28/2021,2143691,2147285,Correct Peru confirmed data
 08/30/2021,time_series_covid19_deaths_global.csv,Peru,08/27/2021,198031,198115,Correct Peru deaths data
 08/30/2021,time_series_covid19_deaths_global.csv,Peru,08/28/2021,198031,198115,Correct Peru deaths data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,03/30/2020,165987,165989,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,04/01/2020,224587,224583,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,04/08/2020,444801,444798,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,05/06/2020,1240846,1240845,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,05/09/2020,1320281,1320280,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,05/11/2020,1358384,1358381,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,05/16/2020,1477429,1477427,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,05/21/2020,1587679,1587678,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,06/02/2020,1837709,1837708,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,06/03/2020,1857566,1857565,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,06/04/2020,1879224,1879222,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,06/07/2020,1943697,1943696,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,06/08/2020,1961313,1961312,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,06/09/2020,1979696,1979694,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/02/2020,2750689,2750688,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/11/2020,3252949,3252947,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/14/2020,3438354,3438351,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/16/2020,3582310,3582309,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/20/2020,3839645,3839644,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/21/2020,3904106,3904105,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/25/2020,4181402,4181400,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/26/2020,4236218,4236217,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/29/2020,4431286,4431284,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/30/2020,4498752,4498750,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/01/2020,4623665,4623663,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/02/2020,4669233,4669232,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/03/2020,4714734,4714733,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/06/2020,4887323,4887322,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/08/2020,5000760,5000759,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/10/2020,5094135,5094134,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/14/2020,5314830,5314829,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/17/2020,5437645,5437641,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/29/2020,5957180,5957178,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,09/01/2020,6068792,6068791,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,09/05/2020,6247601,6247600,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,09/07/2020,6302432,6302431,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,09/12/2020,6488633,6488632,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,09/14/2020,6557428,6557427,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,09/17/2020,6681080,6681079,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,09/19/2020,6772564,6772558,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,09/21/2020,6862889,6862888,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,09/26/2020,7081895,7081894,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,10/01/2020,7281148,7281145,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,10/05/2020,7459789,7459787,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,10/10/2020,7726070,7726068,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,10/15/2020,7990714,7990711,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,10/17/2020,8116620,8116614,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,10/20/2020,8295660,8295658,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,10/26/2020,8729485,8729481,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,11/05/2020,9717003,9717001,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,11/08/2020,10087716,10087714,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,11/09/2020,10208150,10208148,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,11/16/2020,11307458,11307457,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,11/30/2020,13670698,13670697,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,12/07/2020,15109469,15109467,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,12/08/2020,15333921,15333919,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,12/17/2020,17323726,17323724,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,01/04/2021,20947480,20947482,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,01/05/2021,21182522,21182525,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,01/11/2021,22700822,22700819,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,01/24/2021,25206050,25206053,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,02/01/2021,26384317,26384316,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,02/11/2021,27460397,27460396,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,02/16/2021,27829179,27829178,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,02/20/2021,28120211,28120203,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,03/02/2021,28766683,28766682,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,03/08/2021,29112548,29112547,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,03/12/2021,29352094,29352093,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,03/14/2021,29443403,29443399,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,03/16/2021,29553952,29553951,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,03/17/2021,29613268,29613267,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,03/22/2021,29876126,29876125,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,03/24/2021,30016661,30016660,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,04/06/2021,30850594,30850593,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,04/15/2021,31499173,31499172,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,04/23/2021,31995501,31995503,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,04/30/2021,32350861,32350857,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,05/07/2021,32657318,32657317,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,05/09/2021,32712375,32712374,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,05/14/2021,32898984,32898982,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,05/16/2021,32944719,32944720,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,05/17/2021,32973340,32973341,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,05/18/2021,33001126,33001125,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,05/20/2021,33060633,33060632,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,05/21/2021,33088579,33088574,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/06/2021,33747560,33747561,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/07/2021,33770444,33770445,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/08/2021,33790520,33790521,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/09/2021,33838746,33838748,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/10/2021,33847812,33847814,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/11/2021,33853976,33853978,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/12/2021,33888971,33888973,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/13/2021,33915413,33915415,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/14/2021,33947291,33947295,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/15/2021,33975642,33975646,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/16/2021,34054952,34054956,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/17/2021,34067938,34067942,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/18/2021,34079986,34079990,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/19/2021,34132071,34132075,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/20/2021,34174774,34174779,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/21/2021,34226806,34226811,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/22/2021,34283648,34283653,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/23/2021,34402806,34402811,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/24/2021,34430608,34430613,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/25/2021,34443821,34443826,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/26/2021,34533179,34533186,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/27/2021,34603919,34603926,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/28/2021,34672690,34672697,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/29/2021,34750860,34750867,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/30/2021,34945468,34945475,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,07/31/2021,34978276,34978283,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/01/2021,35003417,35003424,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/02/2021,35131393,35131406,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/03/2021,35237950,35237965,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/04/2021,35330664,35330679,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/05/2021,35440488,35440503,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/06/2021,35695469,35695484,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/07/2021,35739551,35739574,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/08/2021,35763785,35763808,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/09/2021,35948261,35948284,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/10/2021,36055108,36055135,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/11/2021,36190179,36190206,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/12/2021,36306800,36306828,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/13/2021,36597564,36597592,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/14/2021,36640271,36640302,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/15/2021,36678753,36678784,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/16/2021,36888952,36888983,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/17/2021,37017854,37017890,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/18/2021,37155669,37155706,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/19/2021,37294141,37294179,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/20/2021,37613635,37613673,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/21/2021,37676313,37676354,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/22/2021,37709810,37709851,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/23/2021,37939641,37939682,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/24/2021,38074886,38074929,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/25/2021,38223029,38223075,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/26/2021,38384360,38384409,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/27/2021,38707294,38707343,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/28/2021,38760363,38760414,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/29/2021,38798836,38798889,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/30/2021,39057368,39057426,Correct US confirmed data
+09/01/2021,time_series_covid19_confirmed_global.csv,US,08/31/2021,39198072,39198131,Correct US confirmed data
+09/01/2021,time_series_covid19_deaths_global.csv,US,04/01/2020,6637,6636,Correct US deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,US,04/02/2020,8152,8151,Correct US deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,US,04/07/2020,17107,17106,Correct US deaths data
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/27/2020,5,3,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/30/2020,6,5,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/25/2020,7,6,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/30/2020,7,8,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/01/2020,9,8,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/02/2020,9,8,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/09/2020,13,9,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/17/2020,16,13,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/18/2020,16,13,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/25/2020,17,16,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/26/2020,17,16,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/28/2020,18,17,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/29/2020,18,17,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,09/09/2020,21,18,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,09/10/2020,21,18,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,09/14/2020,23,21,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,09/15/2020,23,21,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,09/23/2020,45,23,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,10/01/2020,54,48,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,10/02/2020,54,48,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,10/09/2020,65,62,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,10/10/2020,65,62,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,10/14/2020,67,65,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,10/15/2020,67,65,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,10/16/2020,72,67,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,10/21/2020,77,72,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,10/22/2020,77,72,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,10/31/2020,83,89,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,11/01/2020,83,89,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,11/02/2020,83,89,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,11/03/2020,83,89,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,11/04/2020,90,89,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,11/12/2020,109,90,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,11/18/2020,127,109,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,11/30/2020,147,127,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/01/2020,147,152,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/02/2020,147,152,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/03/2020,147,152,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/04/2020,147,152,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/05/2020,147,152,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/06/2020,147,152,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/07/2020,147,152,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/08/2020,162,164,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/09/2020,162,164,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/10/2020,162,164,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/11/2020,162,164,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/12/2020,162,164,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/13/2020,162,164,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/14/2020,162,164,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/15/2020,162,172,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/16/2020,162,172,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/17/2020,162,172,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/18/2020,175,172,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/19/2020,175,172,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/20/2020,175,182,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/21/2020,175,182,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/22/2020,175,182,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/23/2020,184,182,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/24/2020,184,182,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/25/2020,184,182,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/26/2020,184,182,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/27/2020,184,189,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/28/2020,184,189,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/29/2020,184,189,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/30/2020,184,189,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,12/31/2020,190,189,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/05/2021,190,191,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/06/2021,206,191,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/07/2021,206,191,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/08/2021,206,191,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/09/2021,206,191,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/10/2021,206,191,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/11/2021,206,191,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/12/2021,206,224,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/13/2021,206,224,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/14/2021,251,224,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/15/2021,251,224,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/16/2021,251,224,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/17/2021,251,224,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/18/2021,251,224,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/19/2021,251,281,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/20/2021,300,281,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/21/2021,300,281,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/22/2021,300,281,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/23/2021,300,376,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/24/2021,300,376,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/25/2021,300,376,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/26/2021,300,376,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/27/2021,300,376,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/28/2021,360,376,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/29/2021,360,376,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/30/2021,360,376,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,01/31/2021,360,379,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/01/2021,360,379,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/02/2021,360,379,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/03/2021,360,379,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/04/2021,360,379,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/05/2021,360,379,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/06/2021,360,379,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/07/2021,360,379,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/08/2021,360,379,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/09/2021,360,425,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/10/2021,455,425,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/11/2021,455,425,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/12/2021,455,425,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/13/2021,455,425,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/14/2021,455,475,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/15/2021,455,475,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/16/2021,455,475,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/17/2021,512,475,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/18/2021,512,475,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/19/2021,512,475,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/20/2021,512,475,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/21/2021,512,475,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/22/2021,512,475,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/23/2021,573,533,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/24/2021,573,533,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/25/2021,573,533,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/26/2021,573,533,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/27/2021,573,612,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,02/28/2021,573,612,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/01/2021,573,612,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/02/2021,573,612,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/03/2021,638,612,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/04/2021,638,612,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/05/2021,638,612,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/06/2021,638,671,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/07/2021,638,671,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/08/2021,638,671,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/09/2021,638,671,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/10/2021,638,671,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/11/2021,638,671,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/12/2021,712,671,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/13/2021,712,671,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/14/2021,712,725,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/15/2021,712,725,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/16/2021,712,725,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/17/2021,712,725,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/18/2021,712,725,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/19/2021,775,725,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/20/2021,775,725,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/21/2021,775,776,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/22/2021,775,776,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/23/2021,775,776,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/24/2021,775,776,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/25/2021,775,776,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/26/2021,775,776,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/27/2021,775,776,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/28/2021,775,857,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/29/2021,775,857,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/30/2021,775,857,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,03/31/2021,775,857,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/01/2021,775,857,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/02/2021,775,857,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/03/2021,775,910,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/04/2021,775,910,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/05/2021,775,910,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/06/2021,775,910,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/07/2021,775,910,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/08/2021,907,910,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/09/2021,907,910,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/10/2021,907,928,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/11/2021,907,928,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/12/2021,907,928,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/13/2021,907,928,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/14/2021,907,928,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/15/2021,934,928,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/16/2021,934,928,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/17/2021,934,928,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/18/2021,934,954,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/19/2021,934,954,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/20/2021,934,954,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/21/2021,934,954,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/22/2021,958,954,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/23/2021,958,954,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/24/2021,958,954,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/25/2021,958,976,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/26/2021,958,976,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/27/2021,958,976,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/28/2021,974,976,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/29/2021,974,976,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,04/30/2021,974,976,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/01/2021,974,976,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/02/2021,974,988,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/03/2021,974,988,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/04/2021,974,988,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/05/2021,974,988,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/06/2021,974,988,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/07/2021,974,988,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/08/2021,974,994,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/09/2021,974,994,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/10/2021,974,994,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/11/2021,974,994,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/12/2021,974,994,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/13/2021,974,994,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/14/2021,974,994,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/15/2021,974,994,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/16/2021,974,1010,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/17/2021,974,1010,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/18/2021,974,1010,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/19/2021,974,1010,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/20/2021,1005,1010,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/21/2021,1005,1010,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/22/2021,1005,1010,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/23/2021,1005,1016,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/24/2021,1005,1016,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/25/2021,1005,1016,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/26/2021,1005,1016,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/27/2021,1005,1016,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/28/2021,1005,1016,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/29/2021,1005,1016,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/30/2021,1005,1023,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,05/31/2021,1005,1023,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/01/2021,1005,1023,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/02/2021,1005,1023,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/03/2021,1005,1023,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/04/2021,1005,1023,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/05/2021,1005,1023,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/06/2021,1005,1029,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/07/2021,1005,1029,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/08/2021,1005,1029,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/09/2021,1005,1029,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/10/2021,1005,1029,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/11/2021,1005,1029,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/12/2021,1005,1029,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/13/2021,1005,1032,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/14/2021,1005,1032,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/15/2021,1005,1032,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/16/2021,1005,1032,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/17/2021,1005,1032,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/18/2021,1005,1032,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/19/2021,1005,1032,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/20/2021,1005,1040,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/21/2021,1005,1040,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/22/2021,1005,1040,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/23/2021,1005,1040,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/24/2021,1005,1040,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/25/2021,1005,1040,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/26/2021,1005,1040,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/27/2021,1005,1043,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/28/2021,1005,1043,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/29/2021,1005,1043,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,06/30/2021,1005,1043,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/01/2021,1005,1043,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/02/2021,1005,1043,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/03/2021,1005,1043,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/04/2021,1005,1046,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/05/2021,1005,1046,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/06/2021,1005,1046,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/07/2021,1005,1046,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/08/2021,1005,1046,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/09/2021,1005,1046,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/10/2021,1005,1046,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/11/2021,1005,1052,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/12/2021,1005,1052,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/13/2021,1005,1052,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/14/2021,1005,1052,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/15/2021,1005,1052,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/16/2021,1005,1052,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/17/2021,1005,1057,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/18/2021,1005,1057,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/19/2021,1005,1057,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/20/2021,1005,1057,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/21/2021,1005,1057,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/22/2021,1005,1057,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/23/2021,1005,1057,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/24/2021,1005,1065,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/25/2021,1005,1065,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/26/2021,1005,1065,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/27/2021,1005,1065,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/28/2021,1005,1065,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/29/2021,1005,1065,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/30/2021,1005,1065,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,07/31/2021,1005,1221,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/01/2021,1005,1335,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/02/2021,1005,1335,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/03/2021,1195,1335,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/04/2021,1195,1335,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/05/2021,1195,1335,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/06/2021,1336,1335,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/07/2021,1336,1389,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/08/2021,1336,1399,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/09/2021,1336,1399,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/10/2021,1336,1453,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/11/2021,1336,1453,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/12/2021,1336,1453,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/13/2021,1336,1453,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/14/2021,1336,1453,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/15/2021,1336,1479,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/16/2021,1336,1479,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/17/2021,1336,1532,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/18/2021,1336,1532,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/19/2021,1336,1532,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/20/2021,1489,1532,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/21/2021,1489,1553,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/22/2021,1489,1553,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/23/2021,1489,1553,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/24/2021,1489,1553,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/25/2021,1489,1553,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/26/2021,1520,1553,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/27/2021,1520,1553,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/28/2021,1520,1592,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/29/2021,1520,1592,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/30/2021,1520,1592,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_confirmed_global.csv,France,08/31/2021,1520,1592,"Correct Saint Barthelemy, France confirmed data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,11/30/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/01/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/02/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/03/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/04/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/05/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/06/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/07/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/08/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/09/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/10/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/11/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/12/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/13/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/14/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/15/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/16/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/17/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/18/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/19/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/20/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/21/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/22/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/23/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/24/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/25/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/26/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/27/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/28/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/29/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/30/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,12/31/2020,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/01/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/02/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/03/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/04/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/05/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/06/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/07/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/08/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/09/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/10/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/11/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/12/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/13/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/14/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/15/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/16/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/17/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/18/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/19/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/20/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/21/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/22/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/23/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/24/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/25/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/26/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/27/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/28/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/29/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/30/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,01/31/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/01/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/02/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/03/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/04/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/05/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/06/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/07/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/08/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/09/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/10/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/11/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/12/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/13/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/14/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/15/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/16/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/17/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/18/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/19/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/20/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/21/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/22/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/23/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/24/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/25/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/26/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/27/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,02/28/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,03/01/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,03/02/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,03/03/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,03/04/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,03/05/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,03/06/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,03/07/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,03/08/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,03/09/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,03/10/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,03/11/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,03/12/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,03/13/2021,1,0,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/06/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/07/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/08/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/09/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/10/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/11/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/12/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/13/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/14/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/15/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/16/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/17/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/18/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/19/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/20/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/21/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/22/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/23/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/24/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/25/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/26/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/27/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/28/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/29/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/30/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/31/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/17/2021,111589,122899,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/18/2021,111681,123007,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/19/2021,111808,123140,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/20/2021,111856,123193,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/21/2021,111856,123322,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/22/2021,111856,123440,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/23/2021,112140,123502,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/24/2021,112251,123617,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/25/2021,112309,123692,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/26/2021,112415,123815,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/27/2021,112415,123918,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/28/2021,112457,123872,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/29/2021,112510,123925,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/30/2021,112510,123970,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/31/2021,112510,124100,Correct France deaths data
