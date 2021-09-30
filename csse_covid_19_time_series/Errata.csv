@@ -27264,3 +27264,7 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 09/27/2021,time_series_covid19_confirmed_global.csv,Singapore,09/20/2021,77804,78721,Correct Singapore confirmed data
 09/27/2021,time_series_covid19_deaths_global.csv,Singapore,09/20/2021,60,62,Correct Singapore deaths data
 09/28/2021,time_series_covid19_deaths_global.csv,France,09/27/2021,114647,114347,Correct France deaths data
+09/29/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",09/28/2021,583,197,"Correct Unassigned, Nebraska, US deaths data"
+09/29/2021,time_series_covid19_deaths_global.csv,US,09/28/2021,692969,692583,Correct US deaths data
+09/29/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Nebraska, US",09/28/2021,4449,2787,"Correct Unassigned, Nebraska, US confirmed data"
+09/29/2021,time_series_covid19_confirmed_global.csv,US,09/28/2021,43227604,43225942,Correct US confirmed data
