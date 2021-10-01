@@ -27268,3 +27268,947 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 09/29/2021,time_series_covid19_deaths_global.csv,US,09/28/2021,692969,692583,Correct US deaths data
 09/29/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Nebraska, US",09/28/2021,4449,2787,"Correct Unassigned, Nebraska, US confirmed data"
 09/29/2021,time_series_covid19_confirmed_global.csv,US,09/28/2021,43227604,43225942,Correct US confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/09/2020,2,0,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/10/2020,3,2,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/11/2020,6,2,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/13/2020,14,6,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/14/2020,26,14,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/15/2020,26,21,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/16/2020,33,30,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/17/2020,46,40,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/18/2020,49,40,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/19/2020,67,58,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/20/2020,67,58,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/21/2020,84,67,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/22/2020,95,84,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/23/2020,116,95,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/24/2020,124,116,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/25/2020,132,124,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/26/2020,146,132,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/27/2020,162,146,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/28/2020,179,162,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/29/2020,214,179,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/30/2020,230,214,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/31/2020,262,230,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/01/2020,320,262,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/02/2020,356,320,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/03/2020,396,356,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/04/2020,426,396,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/05/2020,446,426,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/06/2020,465,446,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/07/2020,494,465,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/08/2020,526,494,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/09/2020,564,526,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/10/2020,595,564,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/11/2020,616,595,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/12/2020,633,616,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/13/2020,662,633,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/14/2020,695,662,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/15/2020,715,695,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/16/2020,735,715,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/17/2020,750,735,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/18/2020,761,735,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/19/2020,767,761,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/20/2020,772,767,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/21/2020,784,772,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/22/2020,790,784,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/23/2020,795,790,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/24/2020,804,795,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/25/2020,810,804,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/26/2020,817,810,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/27/2020,822,817,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/28/2020,837,822,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/29/2020,843,837,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/30/2020,850,843,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/01/2020,857,850,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/02/2020,864,857,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/03/2020,872,864,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/04/2020,874,872,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/05/2020,878,874,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/06/2020,883,878,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/07/2020,889,883,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/08/2020,891,889,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/09/2020,892,891,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/10/2020,898,892,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/11/2020,901,898,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/12/2020,903,901,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/13/2020,905,903,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/14/2020,907,905,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/15/2020,910,907,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/16/2020,914,910,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/17/2020,916,914,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/18/2020,917,916,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/19/2020,918,917,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/20/2020,922,918,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/21/2020,923,922,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/22/2020,927,923,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/24/2020,935,927,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/25/2020,937,935,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/26/2020,939,937,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/28/2020,941,939,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/29/2020,942,941,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/30/2020,944,941,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/31/2020,944,943,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/01/2020,949,944,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/02/2020,952,949,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/03/2020,958,952,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/05/2020,960,958,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/07/2020,964,960,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/08/2020,970,964,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/09/2020,972,970,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/10/2020,974,972,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/11/2020,975,974,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/12/2020,980,975,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/14/2020,983,980,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/15/2020,985,983,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/21/2020,986,985,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/22/2020,988,986,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/23/2020,990,988,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/24/2020,991,990,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/25/2020,992,991,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/27/2020,994,992,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/29/2020,996,994,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/30/2020,998,996,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/01/2020,999,998,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/04/2020,1002,999,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/05/2020,1003,1002,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/06/2020,1004,1003,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/07/2020,1005,1004,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/08/2020,1008,1005,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/09/2020,1010,1008,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/10/2020,1013,1010,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/11/2020,1014,1013,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/12/2020,1021,1014,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/13/2020,1022,1021,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/14/2020,1023,1022,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/15/2020,1025,1022,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/16/2020,1031,1023,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/17/2020,1033,1031,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/18/2020,1037,1031,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/19/2020,1038,1037,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/21/2020,1040,1038,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/23/2020,1045,1040,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/24/2020,1047,1045,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/25/2020,1053,1047,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/26/2020,1057,1053,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/27/2020,1060,1057,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/28/2020,1067,1060,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/29/2020,1080,1067,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/30/2020,1090,1080,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/31/2020,1114,1084,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/01/2020,1124,1114,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/02/2020,1150,1124,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/03/2020,1155,1150,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/04/2020,1180,1155,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/05/2020,1195,1180,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/06/2020,1208,1195,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/07/2020,1222,1208,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/08/2020,1233,1222,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/09/2020,1242,1233,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/10/2020,1252,1242,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/11/2020,1277,1252,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/12/2020,1291,1277,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/13/2020,1305,1291,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/14/2020,1318,1305,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/15/2020,1332,1318,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/16/2020,1339,1332,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/17/2020,1351,1332,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/18/2020,1359,1351,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/19/2020,1385,1359,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/20/2020,1395,1385,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/21/2020,1406,1395,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/22/2020,1417,1406,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/23/2020,1421,1417,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/24/2020,1451,1421,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/25/2020,1474,1451,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/26/2020,1484,1474,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/27/2020,1467,1481,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/29/2020,1483,1481,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/30/2020,1487,1483,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/31/2020,1488,1487,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/01/2020,1490,1488,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/02/2020,1495,1490,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/03/2020,1498,1495,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/04/2020,1502,1498,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/05/2020,1507,1498,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/06/2020,1509,1507,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/07/2020,1510,1509,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/08/2020,1511,1510,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/09/2020,1514,1511,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/10/2020,1517,1514,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/11/2020,1520,1517,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/12/2020,1523,1520,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/13/2020,1526,1523,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/14/2020,1534,1526,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/15/2020,1540,1534,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/16/2020,1548,1540,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/17/2020,1558,1548,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/18/2020,1565,1558,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/19/2020,1590,1565,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/20/2020,1600,1580,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/21/2020,1603,1600,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/22/2020,1618,1603,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/23/2020,1654,1618,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/24/2020,1663,1654,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/25/2020,1671,1663,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/26/2020,1684,1671,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/27/2020,1696,1684,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/28/2020,1713,1696,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/29/2020,1743,1713,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/30/2020,1755,1743,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/01/2020,1772,1755,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/02/2020,1789,1772,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/03/2020,1811,1789,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/04/2020,1824,1811,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/05/2020,1847,1824,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/06/2020,1876,1847,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/07/2020,1897,1876,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/08/2020,1918,1897,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/09/2020,1951,1918,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/10/2020,1986,1951,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/11/2020,2006,1986,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/12/2020,2047,1986,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/13/2020,2130,2047,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/14/2020,2181,2047,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/15/2020,2285,2130,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/16/2020,2379,2181,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/17/2020,2581,2379,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/18/2020,2644,2379,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/19/2020,2687,2644,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/20/2020,2839,2687,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/21/2020,2966,2839,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/22/2020,3154,2966,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/23/2020,3314,3154,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/24/2020,3444,3314,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/25/2020,3545,3444,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/26/2020,3636,3545,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/27/2020,3817,3636,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/28/2020,3930,3817,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/29/2020,4051,3817,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/30/2020,4217,4051,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,10/31/2020,4366,4217,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/01/2020,4563,4366,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/02/2020,4760,4563,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/03/2020,4934,4760,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/04/2020,5100,4934,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/05/2020,5333,5100,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/06/2020,5557,5333,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/07/2020,5871,5557,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/08/2020,5987,5871,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/09/2020,6098,5987,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/10/2020,6296,6098,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/11/2020,6461,6296,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/12/2020,6646,6461,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/13/2020,6853,6646,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/14/2020,7051,6853,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/15/2020,7178,7051,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/16/2020,7285,7178,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/17/2020,7513,7285,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/18/2020,7711,7513,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/19/2020,7979,7711,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/20/2020,8211,7979,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/21/2020,8456,8211,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/22/2020,8643,8456,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/23/2020,8947,8643,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/24/2020,9199,8947,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/25/2020,9453,9199,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/26/2020,9673,9453,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/27/2020,9983,9673,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/28/2020,10231,9983,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/29/2020,10383,10231,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,11/30/2020,10565,10383,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/01/2020,10883,10565,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/02/2020,11175,10883,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/03/2020,11523,11175,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/04/2020,11812,11523,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/05/2020,12181,11812,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/06/2020,12451,12181,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/07/2020,12867,12451,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/08/2020,13286,12867,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/11/2020,13649,14052,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/13/2020,15101,14800,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/14/2020,15450,15101,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/15/2020,15789,15450,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/16/2020,16190,15789,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/19/2020,17476,17057,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/20/2020,17688,17476,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/21/2020,18004,17718,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/23/2020,18883,18406,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/24/2020,19316,18883,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/25/2020,19366,19316,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/26/2020,19391,19366,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/27/2020,19657,19391,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/28/2020,20408,19657,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/29/2020,21315,20408,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/30/2020,22019,21315,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,12/31/2020,22019,22346,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/01/2021,22818,23108,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/02/2021,23445,23275,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/03/2021,23974,23902,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/04/2021,24639,24431,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/05/2021,25208,25096,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/06/2021,25781,25665,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/07/2021,26208,26238,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/08/2021,26674,26665,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/09/2021,27011,27131,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/10/2021,27350,27468,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/11/2021,27638,27807,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/12/2021,27897,28095,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/13/2021,28124,28354,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/14/2021,28124,28581,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/15/2021,28609,28822,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/16/2021,28811,29066,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/17/2021,28968,29268,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/18/2021,29130,29425,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/19/2021,29294,29587,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/20/2021,29472,29751,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/21/2021,29636,29929,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/22/2021,29758,30093,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/23/2021,29887,30215,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/24/2021,30017,30344,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/25/2021,30143,30474,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/26/2021,30252,30600,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/27/2021,30380,30709,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/28/2021,30538,30837,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/29/2021,30657,30995,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/30/2021,30770,31114,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,01/31/2021,30876,31227,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/01/2021,30996,31387,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/02/2021,31124,31507,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/03/2021,31263,31635,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/04/2021,31379,31774,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/05/2021,31512,31890,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/06/2021,31644,32023,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/07/2021,31759,32155,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/08/2021,31864,32270,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/09/2021,31959,32375,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/10/2021,32072,32470,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/11/2021,32175,32583,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/12/2021,32288,32686,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/13/2021,32390,32799,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/14/2021,32513,32901,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/15/2021,32626,33024,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/16/2021,32707,33137,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/17/2021,32828,33218,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/18/2021,32935,33339,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/19/2021,33046,33446,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/20/2021,33153,33557,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/21/2021,33260,33664,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/22/2021,33391,33771,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/23/2021,33567,33902,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/24/2021,33710,34078,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/25/2021,33909,34221,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/26/2021,34181,34420,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/27/2021,34424,34692,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,02/28/2021,34707,34935,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/01/2021,35009,35382,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/02/2021,35297,35684,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/03/2021,35620,35972,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/04/2021,36004,36295,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/05/2021,36277,36679,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/06/2021,36575,36952,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/07/2021,36878,37250,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/08/2021,37230,37553,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/09/2021,37650,37905,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/10/2021,38065,38325,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/11/2021,38496,38740,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/12/2021,38879,39171,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/13/2021,39277,39554,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/14/2021,39651,39952,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/15/2021,39869,40326,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/16/2021,40344,40544,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/17/2021,40726,41019,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/18/2021,41111,41401,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/19/2021,41475,41786,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/20/2021,41882,42150,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/21/2021,42218,42557,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/22/2021,42628,42893,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/23/2021,42993,43303,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/24/2021,43286,43668,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/25/2021,43610,43961,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/26/2021,43971,44285,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/27/2021,44305,44646,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/28/2021,44631,44980,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/29/2021,44991,45306,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/30/2021,45430,45666,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,03/31/2021,45864,46105,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/01/2021,46173,46833,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/02/2021,46878,47142,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/03/2021,47282,47847,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/04/2021,47713,48251,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/05/2021,48278,48682,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/06/2021,48837,49247,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/07/2021,49366,49806,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/08/2021,49988,50335,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/09/2021,50589,50957,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/10/2021,51035,51558,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/11/2021,51505,52004,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/12/2021,52033,52474,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/13/2021,52652,53002,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/14/2021,53254,53621,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/15/2021,53944,54223,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/16/2021,54621,54913,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/17/2021,55407,55590,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/18/2021,56259,56376,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/19/2021,57081,57228,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/20/2021,58022,58050,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/21/2021,58865,58991,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/22/2021,59792,59834,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/23/2021,60681,60761,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/24/2021,61576,61650,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/25/2021,62349,62545,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/26/2021,62960,63318,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/27/2021,63720,63929,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/28/2021,64565,64689,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/29/2021,65233,65534,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,04/30/2021,65233,66202,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/01/2021,65909,66985,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/02/2021,66372,67448,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/03/2021,66911,67506,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/04/2021,67420,67987,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/05/2021,67982,68496,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/06/2021,68442,69058,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/07/2021,68766,69518,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/08/2021,69163,69842,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/09/2021,69432,70239,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/10/2021,69708,70508,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/11/2021,70098,70784,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/12/2021,70358,71174,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/13/2021,70571,71434,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/14/2021,70742,71647,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/15/2021,70899,71818,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/16/2021,71064,71975,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/17/2021,71231,72140,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/18/2021,71398,72307,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/19/2021,71533,72474,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/20/2021,71610,72609,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/21/2021,71745,72686,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/22/2021,71836,72821,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/23/2021,71911,72912,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/24/2021,72011,72987,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/25/2021,72090,73087,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/26/2021,72159,73166,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/27/2021,72234,73235,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/28/2021,72307,73310,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/29/2021,72363,73383,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/30/2021,72407,73439,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,05/31/2021,72457,73483,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/01/2021,72515,73578,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/02/2021,72573,73636,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/03/2021,72626,73694,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/04/2021,72709,73747,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/05/2021,72750,73830,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/06/2021,72779,73871,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/07/2021,72859,73900,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/08/2021,72919,73980,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/09/2021,72996,74040,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/10/2021,73055,74117,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/11/2021,73115,74176,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/12/2021,73115,74236,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/13/2021,73190,74278,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/14/2021,73247,74311,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/15/2021,73311,74368,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/16/2021,73379,74432,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/17/2021,73444,74500,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/18/2021,73520,74565,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/19/2021,73582,74641,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/20/2021,73643,74703,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/21/2021,73710,74764,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/22/2021,73832,74831,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/23/2021,73999,74953,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/24/2021,74174,75120,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/25/2021,74343,75295,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/26/2021,74569,75464,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/27/2021,74785,75690,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/28/2021,75099,75906,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/29/2021,75431,76220,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,06/30/2021,75860,76552,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/01/2021,76333,77367,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/02/2021,76862,77840,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/03/2021,77445,78369,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/04/2021,78022,78952,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/05/2021,78809,79529,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/06/2021,79636,80316,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/07/2021,80588,81143,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/08/2021,81581,82095,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/09/2021,82463,83088,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/10/2021,83423,83970,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/11/2021,84272,84930,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/12/2021,85104,85779,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/13/2021,86185,86611,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/14/2021,87305,87692,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/15/2021,88457,88812,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/16/2021,89410,89964,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/17/2021,90338,90917,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/18/2021,91196,91845,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/19/2021,92252,92703,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/20/2021,93247,93759,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/21/2021,94261,94754,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/22/2021,95307,95768,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/23/2021,96202,96814,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/24/2021,96991,97709,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/25/2021,97718,98498,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/26/2021,98569,99225,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/27/2021,99360,100076,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/28/2021,100129,100867,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/29/2021,100784,101636,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/30/2021,101419,102291,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,07/31/2021,101419,102926,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/01/2021,102223,103668,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/02/2021,102716,103945,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/03/2021,103314,104438,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/04/2021,103889,105036,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/05/2021,104469,105611,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/06/2021,104994,106191,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/07/2021,105593,106716,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/08/2021,105982,107315,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/09/2021,106428,107704,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/10/2021,107001,108150,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/11/2021,107485,108723,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/12/2021,107887,109207,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/13/2021,108306,109609,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/14/2021,108707,110028,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/15/2021,108872,110429,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/16/2021,109253,110594,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/17/2021,109665,110975,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/18/2021,110098,111387,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/19/2021,110518,111820,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/20/2021,110829,112240,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/21/2021,111140,112551,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/22/2021,111333,112862,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/23/2021,111666,113055,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/24/2021,112021,113388,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/25/2021,112278,113743,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/26/2021,112532,114000,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/27/2021,112856,114254,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/28/2021,113069,114578,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/29/2021,113277,114791,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/30/2021,113588,114999,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,08/31/2021,113875,115310,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/01/2021,114131,115597,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/02/2021,114366,115853,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/03/2021,114604,116088,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/04/2021,114899,116326,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/05/2021,115046,116621,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/06/2021,115269,116768,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/07/2021,115475,116991,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/08/2021,115657,117197,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/09/2021,115831,117379,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/10/2021,115973,117553,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/11/2021,116109,117695,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/12/2021,116209,117831,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/13/2021,116368,117931,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/14/2021,116494,118090,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/15/2021,116494,118216,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/16/2021,116494,118446,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/17/2021,116494,118570,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/18/2021,116494,118723,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/19/2021,116494,118863,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/20/2021,117235,118957,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/21/2021,117235,119113,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/22/2021,117508,119230,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/23/2021,117759,119336,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/24/2021,117868,119481,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/25/2021,117967,119590,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/26/2021,118045,119689,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/27/2021,118181,119767,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/28/2021,118298,119903,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_confirmed_global.csv,Cyprus,09/29/2021,118421,120020,Correct Cyprus confirmed data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/22/2020,1,0,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/23/2020,1,0,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/24/2020,3,0,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/27/2020,5,3,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/30/2020,7,6,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/31/2020,8,7,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/01/2020,9,8,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/02/2020,10,9,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/03/2020,11,9,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/04/2020,11,9,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/09/2020,10,9,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/12/2020,11,10,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/13/2020,12,11,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/22/2020,13,12,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/23/2020,13,14,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/27/2020,15,14,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/10/2020,16,15,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/13/2020,17,16,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/06/2020,18,17,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/18/2020,19,18,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/11/2020,20,19,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/20/2020,20,21,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/21/2020,20,21,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/22/2020,20,21,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/23/2020,20,21,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/24/2020,20,21,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/25/2020,20,21,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/26/2020,20,21,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/27/2020,20,21,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/28/2020,20,21,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/29/2020,20,21,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/30/2020,20,21,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/31/2020,20,21,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/07/2020,22,21,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/08/2020,22,21,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/09/2020,22,21,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/10/2020,22,21,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/11/2020,22,21,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/12/2020,22,21,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/13/2020,22,21,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/14/2020,22,21,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,10/06/2020,23,22,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,10/07/2020,24,23,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,10/09/2020,25,24,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,10/31/2020,26,25,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,11/02/2020,27,26,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,11/03/2020,27,26,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,11/04/2020,27,26,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,11/05/2020,27,26,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,11/06/2020,27,26,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,11/07/2020,35,26,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,11/08/2020,28,27,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,11/09/2020,28,27,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,11/10/2020,29,27,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,11/11/2020,33,29,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,11/12/2020,34,32,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,11/13/2020,38,34,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,11/14/2020,39,38,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,11/18/2020,41,40,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,11/20/2020,43,41,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,11/22/2020,44,43,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,11/24/2020,46,44,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,11/25/2020,47,46,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,11/26/2020,48,47,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,11/30/2020,49,48,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/02/2020,52,49,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/03/2020,54,52,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/04/2020,57,54,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/06/2020,61,59,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/07/2020,63,61,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/08/2020,68,63,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/11/2020,70,72,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/14/2020,82,79,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/15/2020,84,83,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/17/2020,85,86,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/18/2020,85,86,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/19/2020,89,88,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/20/2020,91,90,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/21/2020,96,92,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/22/2020,96,97,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/23/2020,104,102,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/24/2020,107,105,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/25/2020,109,108,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/26/2020,111,110,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/29/2020,117,114,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/30/2020,119,118,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,12/31/2020,119,120,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/01/2021,127,126,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/02/2021,129,128,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/03/2021,131,130,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/04/2021,133,132,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/06/2021,138,135,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/07/2021,140,139,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/09/2021,147,142,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/11/2021,153,149,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/12/2021,157,154,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/13/2021,163,158,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/14/2021,163,164,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/15/2021,166,167,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/17/2021,170,168,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/18/2021,175,171,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/20/2021,176,177,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/21/2021,178,177,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/23/2021,183,180,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/24/2021,186,184,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/25/2021,188,187,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/26/2021,190,189,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/27/2021,193,191,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/28/2021,197,194,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/29/2021,197,198,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/30/2021,197,198,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,01/31/2021,199,198,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,02/01/2021,202,200,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,02/02/2021,202,203,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,02/04/2021,208,204,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,02/05/2021,210,209,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,02/08/2021,214,213,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,02/09/2021,214,215,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,02/10/2021,217,215,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,02/16/2021,225,223,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,02/17/2021,227,226,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,02/20/2021,229,230,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,02/21/2021,229,230,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,02/23/2021,230,231,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,02/25/2021,231,232,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,02/26/2021,231,232,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,02/27/2021,231,232,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,02/28/2021,231,232,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/01/2021,231,232,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/03/2021,232,233,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/04/2021,232,233,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/05/2021,232,233,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/06/2021,232,233,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/08/2021,233,234,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/09/2021,233,234,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/10/2021,235,234,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/12/2021,238,237,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/13/2021,238,239,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/14/2021,240,239,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/15/2021,240,241,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/17/2021,241,242,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/18/2021,241,242,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/19/2021,241,242,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/22/2021,245,244,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/24/2021,248,247,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/25/2021,248,249,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/26/2021,248,249,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/27/2021,250,249,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/28/2021,252,251,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/29/2021,254,253,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/30/2021,256,255,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,03/31/2021,256,257,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/01/2021,260,257,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/03/2021,261,262,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/04/2021,261,262,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/06/2021,264,263,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/07/2021,266,265,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/08/2021,268,267,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/09/2021,268,269,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/10/2021,272,269,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/11/2021,272,273,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/14/2021,277,275,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/15/2021,283,278,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/17/2021,288,285,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/18/2021,291,289,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/19/2021,294,292,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/21/2021,295,296,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/25/2021,298,299,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/26/2021,301,299,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/27/2021,303,302,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/28/2021,306,304,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/29/2021,308,307,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,04/30/2021,308,309,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/01/2021,312,313,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/02/2021,313,314,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/03/2021,321,315,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/04/2021,326,322,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/07/2021,332,329,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/08/2021,334,333,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/09/2021,336,335,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/11/2021,339,338,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/12/2021,341,340,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/14/2021,346,343,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/15/2021,346,347,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/16/2021,346,347,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/19/2021,348,349,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/20/2021,350,349,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/21/2021,352,351,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/24/2021,356,355,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/26/2021,357,358,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/27/2021,357,358,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/28/2021,360,358,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/29/2021,360,361,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/30/2021,360,361,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,05/31/2021,360,361,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/01/2021,360,361,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/05/2021,363,364,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/06/2021,363,364,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/09/2021,367,366,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/10/2021,371,368,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/12/2021,372,373,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/13/2021,373,374,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/15/2021,374,375,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/16/2021,374,375,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/17/2021,374,375,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/18/2021,374,375,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/19/2021,374,375,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/20/2021,374,375,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/21/2021,374,375,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/22/2021,374,375,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/23/2021,374,375,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/24/2021,374,375,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/25/2021,374,375,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/26/2021,374,375,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/27/2021,374,375,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/28/2021,374,375,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/29/2021,374,375,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,06/30/2021,374,375,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/01/2021,374,375,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/02/2021,374,375,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/03/2021,374,375,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/04/2021,379,375,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/06/2021,380,381,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/07/2021,380,381,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/08/2021,380,381,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/09/2021,380,381,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/10/2021,380,381,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/11/2021,380,381,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/12/2021,380,381,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/13/2021,382,381,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/15/2021,383,384,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/17/2021,384,385,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/19/2021,390,386,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/21/2021,394,392,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/22/2021,398,395,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/23/2021,398,399,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/25/2021,401,400,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/26/2021,404,402,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/27/2021,410,405,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/28/2021,412,411,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/29/2021,416,413,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/30/2021,419,417,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,07/31/2021,419,420,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/02/2021,426,423,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/03/2021,429,427,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/04/2021,430,431,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/05/2021,433,432,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/06/2021,437,435,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/07/2021,438,439,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/08/2021,441,440,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/11/2021,452,450,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/12/2021,454,456,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/13/2021,455,459,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/14/2021,456,461,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/15/2021,456,462,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/16/2021,461,462,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/17/2021,464,467,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/18/2021,467,470,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/19/2021,470,473,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/20/2021,475,477,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/21/2021,477,483,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/22/2021,483,485,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/23/2021,484,491,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/24/2021,486,493,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/25/2021,486,495,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/26/2021,491,495,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/27/2021,496,500,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/28/2021,497,505,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/29/2021,499,506,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/30/2021,501,508,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,08/31/2021,503,510,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/01/2021,507,512,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/02/2021,508,516,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/03/2021,512,517,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/04/2021,513,521,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/05/2021,515,522,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/06/2021,516,524,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/07/2021,518,525,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/08/2021,523,527,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/09/2021,526,532,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/10/2021,527,535,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/11/2021,528,536,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/12/2021,528,537,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/13/2021,532,537,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/14/2021,534,541,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/15/2021,534,543,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/16/2021,534,544,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/17/2021,534,545,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/18/2021,534,545,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/19/2021,534,547,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/21/2021,547,548,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/23/2021,551,548,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/24/2021,551,550,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/25/2021,552,550,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/26/2021,553,551,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/27/2021,553,552,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/28/2021,553,552,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_deaths_global.csv,Cyprus,09/29/2021,553,552,Correct Cyprus deaths data
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/05/2021,40039349,40039356,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/06/2021,40114529,40114538,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/07/2021,40391555,40391566,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/08/2021,40573720,40573789,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/09/2021,40733522,40733593,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/10/2021,40961241,40961390,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/11/2021,41025489,41025645,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/12/2021,41061346,41061504,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/13/2021,41322074,41322259,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/14/2021,41466962,41467287,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/15/2021,41638204,41638554,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/16/2021,41793113,41793484,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/17/2021,42001101,42001556,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/18/2021,42057811,42058315,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/19/2021,42094169,42094648,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/20/2021,42295952,42296425,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/21/2021,42417124,42417661,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/22/2021,42549513,42550081,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/23/2021,42675416,42675919,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/24/2021,42852871,42853371,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/25/2021,42900402,42900903,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/26/2021,42931354,42931861,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/27/2021,43116442,43116877,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/28/2021,43225942,43226482,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,US,09/29/2021,43349211,43349749,"Correct California, US stale confirmed data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/05/2021,649056,649058,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/06/2021,649605,649607,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/07/2021,651727,651729,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/08/2021,653906,653908,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/09/2021,657159,657161,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/10/2021,659506,659510,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/11/2021,660237,660241,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/12/2021,660539,660543,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/13/2021,662720,662724,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/14/2021,664478,664483,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/15/2021,667173,667178,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/16/2021,670597,670602,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/17/2021,672969,672974,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/18/2021,673810,673815,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/19/2021,674121,674126,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/20/2021,676425,676430,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/21/2021,678631,678638,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/22/2021,681416,681423,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/23/2021,684573,684581,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/24/2021,687084,687093,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/25/2021,687746,687755,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/26/2021,688032,688041,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/27/2021,690426,690435,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/28/2021,692583,692592,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,US,09/29/2021,695114,695124,"Correct California, US stale deaths data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/05/2021,6341,6444,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/06/2021,6341,6444,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/07/2021,6341,6444,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/08/2021,6341,6501,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/09/2021,6341,6501,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/10/2021,6341,6577,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/11/2021,6341,6577,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/12/2021,6341,6577,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/13/2021,6341,6603,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/14/2021,6341,6741,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/15/2021,6341,6765,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/16/2021,6341,6785,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/17/2021,6341,6867,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/18/2021,6341,6914,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/19/2021,6368,6914,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/20/2021,6376,6914,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/21/2021,6379,6977,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/22/2021,6406,7035,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/23/2021,6491,7053,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/24/2021,6530,7089,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/25/2021,6530,7089,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/26/2021,6530,7089,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/27/2021,6601,7089,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/28/2021,6609,7196,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_confirmed_global.csv,"Lassen, California, US",09/29/2021,6622,7208,"Correct Lassen, CA stale confirmed data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/05/2021,27,29,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/06/2021,27,29,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/07/2021,27,29,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/08/2021,27,29,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/09/2021,27,29,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/10/2021,27,31,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/11/2021,27,31,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/12/2021,27,31,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/13/2021,27,31,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/14/2021,27,32,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/15/2021,27,32,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/16/2021,27,32,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/17/2021,27,32,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/18/2021,27,32,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/19/2021,27,32,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/20/2021,27,32,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/21/2021,27,34,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/22/2021,27,34,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/23/2021,27,35,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/24/2021,27,36,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/25/2021,27,36,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/26/2021,27,36,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/27/2021,27,36,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/28/2021,27,36,"Correct Lassen, CA stale deaths data"
+09/30/2021,time_series_covid19_deaths_global.csv,"Lassen, California, US",09/29/2021,27,37,"Correct Lassen, CA stale deaths data"
