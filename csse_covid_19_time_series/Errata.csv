@@ -31778,3 +31778,25 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 10/22/2021,time_series_covid19_deaths_global.csv,Greece,03/31/2020,69,38,Correct Greece deaths data
 10/22/2021,time_series_covid19_deaths_global.csv,Greece,04/01/2020,69,38,Correct Greece deaths data
 10/22/2021,time_series_covid19_deaths_global.csv,Greece,04/02/2020,69,38,Correct Greece deaths data
+10/25/2021,time_series_covid19_confirmed_global.csv,Australia,10/22/2021,76915,76886,Correct Australia confirmed data
+10/25/2021,time_series_covid19_confirmed_global.csv,Australia,10/23/2021,78821,78763,Correct Australia confirmed data
+10/25/2021,time_series_covid19_confirmed_global.csv,Australia,10/24/2021,80224,80152,Correct Australia confirmed data
+10/25/2021,time_series_covid19_confirmed_global.csv,Honduras,10/21/2021,373455,373589,Correct Honduras confirmed data
+10/25/2021,time_series_covid19_confirmed_global.csv,Honduras,10/22/2021,373704,373838,Correct Honduras confirmed data
+10/25/2021,time_series_covid19_deaths_global.csv,Honduras,10/21/2021,10159,10170,Correct Honduras deaths data
+10/25/2021,time_series_covid19_deaths_global.csv,Honduras,10/22/2021,10172,10182,Correct Honduras deaths data
+10/26/2021,time_series_covid19_confirmed_US.csv,"Lassen, California, US",10/25/2021,7587,7618,"Correct Lassen, California, US confirmed data"
+10/26/2021,time_series_covid19_confirmed_US.csv,"Los Angeles, California, US",10/25/2021,1485105,1485769,"Correct Los Angeles, California, US confirmed data"
+10/26/2021,time_series_covid19_confirmed_US.csv,"Mariposa, California, US",10/25/2021,1339,1370,"Correct Mariposa, California, US confirmed data"
+10/26/2021,time_series_covid19_confirmed_US.csv,"San Diego, California, US",10/25/2021,367857,368267,"Correct San Diego, California, US confirmed data"
+10/26/2021,time_series_covid19_confirmed_US.csv,"Stanislaus, California, US",10/25/2021,86299,86738,"Correct Stanislaus, California, US confirmed data"
+10/26/2021,time_series_covid19_deaths_US.csv,"Lassen, California, US",10/25/2021,47,48,"Correct Lassen, California, US deaths data"
+10/26/2021,time_series_covid19_deaths_US.csv,"Los Angeles, California, US",10/25/2021,26549,26552,"Correct Los Angeles, California, US deaths data"
+10/26/2021,time_series_covid19_deaths_US.csv,"Mariposa, California, US",10/25/2021,16,17,"Correct Mariposa, California, US deaths data"
+10/26/2021,time_series_covid19_deaths_US.csv,"Mendocino, California, US",10/25/2021,87,88,"Correct Mendocino, California, US deaths data"
+10/26/2021,time_series_covid19_deaths_US.csv,"San Benito, California, US",10/25/2021,72,74,"Correct San Benito, California, US deaths data"
+10/26/2021,time_series_covid19_deaths_US.csv,"San Diego, California, US",10/25/2021,4183,4196,"Correct San Diego, California, US deaths data"
+10/26/2021,time_series_covid19_deaths_US.csv,"Shasta, California, US",10/25/2021,352,354,"Correct Shasta, California, US deaths data"
+10/26/2021,time_series_covid19_deaths_US.csv,"Stanislaus, California, US",10/25/2021,1335,1338,"Correct Stanislaus, California, US deaths data"
+10/26/2021,time_series_covid19_confirmed_global.csv,US,10/25/2021,45545583,45547158,Correct US confirmed data
+10/26/2021,time_series_covid19_deaths_global.csv,US,10/25/2021,737316,737342,Correct US deaths data
