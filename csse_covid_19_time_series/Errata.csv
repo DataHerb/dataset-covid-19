@@ -32054,3 +32054,9 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 10/28/2021,time_series_covid19_deaths_US.csv,"Ventura, California, US",10/27/2021,1167,1170,"Correct Ventura, California, US deaths data"
 10/28/2021,time_series_covid19_confirmed_global.csv,US,10/27/2021,45703978,45726714,Correct US confirmed data
 10/28/2021,time_series_covid19_deaths_global.csv,US,10/27/2021,741231,741582,Correct US deaths data
+11/02/2021,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/01/2021,653,4987,"Correct Unassigned, New Hampshire, US confirmed data"
+11/02/2021,time_series_covid19_confirmed_global.csv,US,11/01/2021,46091924,46096258,Correct US confirmed data
+11/02/2021,time_series_covid19_confirmed_US.csv,"Unassigned, New Hampshire, US",11/01/2021,653,4987,"Correct Unassigned, New Hampshire, US confirmed data"
+11/02/2021,time_series_covid19_deaths_US.csv,"Unassigned, New Hampshire, US",11/01/2021,1,25,"Correct Unassigned, New Hampshire, US deaths data"
+11/02/2021,time_series_covid19_confirmed_global.csv,US,11/01/2021,46091924,46096258,Correct US confirmed data
+11/02/2021,time_series_covid19_deaths_global.csv,US,11/01/2021,747033,747057,Correct US deaths data
