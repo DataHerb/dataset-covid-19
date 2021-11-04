@@ -32060,3 +32060,61 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 11/02/2021,time_series_covid19_deaths_US.csv,"Unassigned, New Hampshire, US",11/01/2021,1,25,"Correct Unassigned, New Hampshire, US deaths data"
 11/02/2021,time_series_covid19_confirmed_global.csv,US,11/01/2021,46091924,46096258,Correct US confirmed data
 11/02/2021,time_series_covid19_deaths_global.csv,US,11/01/2021,747033,747057,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",09/28/2021,197,583,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",09/29/2021,197,597,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",09/30/2021,197,602,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/01/2021,197,610,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/02/2021,197,610,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/03/2021,197,610,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/04/2021,197,610,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/05/2021,197,610,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/06/2021,197,611,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/07/2021,197,612,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/08/2021,197,615,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/09/2021,197,625,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/10/2021,197,625,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/11/2021,197,625,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/12/2021,197,626,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/13/2021,201,640,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/14/2021,209,655,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/15/2021,215,667,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/16/2021,215,668,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/17/2021,215,675,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/18/2021,215,682,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/19/2021,230,690,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/20/2021,229,694,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/21/2021,231,698,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/22/2021,231,708,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/23/2021,231,708,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/24/2021,231,708,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/25/2021,231,708,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_US.csv,"Unassigned, Nebraska, US",10/26/2021,231,711,"Correct Unassigned, Nebraska, US deaths data"
+11/03/2021,time_series_covid19_deaths_global.csv,US,09/28/2021,693687,694073,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,09/29/2021,696280,696680,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,09/30/2021,699061,699466,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/01/2021,701176,701589,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/02/2021,701897,702310,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/03/2021,702365,702778,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/04/2021,704386,704799,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/05/2021,706283,706696,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/06/2021,708888,709302,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/07/2021,711343,711758,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/08/2021,713145,713563,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/09/2021,713475,713903,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/10/2021,713888,714316,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/11/2021,715034,715462,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/12/2021,717355,717784,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/13/2021,720531,720970,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/14/2021,722615,723061,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/15/2021,724384,724836,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/16/2021,724813,725266,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/17/2021,725193,725653,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/18/2021,726942,727409,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/19/2021,729030,729490,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/20/2021,732169,732634,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/21/2021,734090,734557,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/22/2021,735921,736398,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/23/2021,736359,736836,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/24/2021,736511,736988,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/25/2021,737914,738391,Correct US deaths data
+11/03/2021,time_series_covid19_deaths_global.csv,US,10/26/2021,739453,739933,Correct US deaths data
