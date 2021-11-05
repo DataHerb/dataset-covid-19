@@ -32118,3 +32118,27 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 11/03/2021,time_series_covid19_deaths_global.csv,US,10/24/2021,736511,736988,Correct US deaths data
 11/03/2021,time_series_covid19_deaths_global.csv,US,10/25/2021,737914,738391,Correct US deaths data
 11/03/2021,time_series_covid19_deaths_global.csv,US,10/26/2021,739453,739933,Correct US deaths data
+11/04/2021,time_series_covid19_confirmed_global.csv,Colombia,10/24/2021,5003839,4991050,Correct Colombia confirmed data
+11/04/2021,time_series_covid19_confirmed_US.csv,"Kent, Delaware, US",11/03/2021,26252,26319,"Correct Kent, Delaware, US confirmed data"
+11/04/2021,time_series_covid19_confirmed_US.csv,"New Castle, Delaware, US",11/03/2021,82163,82309,"Correct New Castle, Delaware, US confirmed data"
+11/04/2021,time_series_covid19_confirmed_US.csv,"Sussex, Delaware, US",11/03/2021,35627,35693,"Correct Sussex, Delaware, US confirmed data"
+11/04/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Delaware, US",11/03/2021,431,434,"Correct Unassigned, Delaware, US confirmed data"
+11/04/2021,time_series_covid19_deaths_US.csv,"New Castle, Delaware, US",11/03/2021,1017,1018,"Correct New Castle, Delaware, US deaths data"
+11/04/2021,time_series_covid19_confirmed_global.csv,US,11/03/2021,46252513,46252795,Correct US confirmed data
+11/04/2021,time_series_covid19_deaths_global.csv,US,11/03/2021,750423,750424,Correct US deaths data
+11/04/2021,time_series_covid19_confirmed_global.csv,Germany,12/29/2020,1692109,1691755,Correct Germany confirmed data
+11/04/2021,time_series_covid19_confirmed_global.csv,Germany,12/30/2020,1741153,1723696,Correct Germany confirmed data
+11/04/2021,time_series_covid19_confirmed_global.csv,Germany,12/31/2020,1760520,1746929,Correct Germany confirmed data
+11/04/2021,time_series_covid19_confirmed_global.csv,Germany,01/01/2021,1762637,1762504,Correct Germany confirmed data
+11/04/2021,time_series_covid19_confirmed_global.csv,Germany,03/16/2021,2603064,2595058,Correct Germany confirmed data
+11/04/2021,time_series_covid19_confirmed_global.csv,Germany,03/17/2021,2610769,2612908,Correct Germany confirmed data
+11/04/2021,time_series_covid19_confirmed_global.csv,Germany,03/18/2021,2639258,2629960,Correct Germany confirmed data
+11/04/2021,time_series_covid19_confirmed_global.csv,Germany,03/19/2021,2654734,2646107,Correct Germany confirmed data
+11/04/2021,time_series_covid19_confirmed_global.csv,Germany,03/20/2021,2669233,2659792,Correct Germany confirmed data
+11/04/2021,time_series_covid19_deaths_global.csv,Germany,12/29/2020,32267,32263,Correct Germany deaths data
+11/04/2021,time_series_covid19_deaths_global.csv,Germany,12/30/2020,33230,33281,Correct Germany deaths data
+11/04/2021,time_series_covid19_deaths_global.csv,Germany,01/01/2021,34145,34150,Correct Germany deaths data
+11/04/2021,time_series_covid19_deaths_global.csv,Germany,03/16/2021,73952,73953,Correct Germany deaths data
+11/04/2021,time_series_covid19_deaths_global.csv,Germany,03/17/2021,74043,74177,Correct Germany deaths data
+11/04/2021,time_series_covid19_deaths_global.csv,Germany,03/19/2021,74608,74609,Correct Germany deaths data
+11/04/2021,time_series_covid19_deaths_global.csv,Germany,03/20/2021,74706,74707,Correct Germany deaths data
