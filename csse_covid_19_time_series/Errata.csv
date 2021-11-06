@@ -32142,3 +32142,5 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 11/04/2021,time_series_covid19_deaths_global.csv,Germany,03/17/2021,74043,74177,Correct Germany deaths data
 11/04/2021,time_series_covid19_deaths_global.csv,Germany,03/19/2021,74608,74609,Correct Germany deaths data
 11/04/2021,time_series_covid19_deaths_global.csv,Germany,03/20/2021,74706,74707,Correct Germany deaths data
+11/05/2021,time_series_covid19_confirmed_global.csv,India,01/01/2021,10325823,10305788,Correct India confirmed data
+11/05/2021,time_series_covid19_deaths_global.csv,India,01/01/2021,149474,149218,Correct India deaths data
