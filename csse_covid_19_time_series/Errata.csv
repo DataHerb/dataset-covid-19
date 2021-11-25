@@ -32162,3 +32162,12 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 11/23/2021,time_series_covid19_deaths_global.csv,US,11/22/2021,772343,772344,Correct US deaths data
 11/23/2021,time_series_covid19_deaths_global.csv,France,11/22/2021,117459,116127,Correct France deaths data
 11/23/2021,time_series_covid19_confirmed_global.csv,Brazil,11/22/2021,22020412,22019870,Correct Brazil confirmed data
+11/24/2021,time_series_covid19_confirmed_global.csv,France,11/22/2021,7324324,7235966,Correct France confirmed data
+11/25/2021,time_series_covid19_confirmed_US.csv,"Hawaii, Hawaii, US",11/24/2021,11623,11637,"Correct Hawaii, Hawaii, US confirmed data"
+11/25/2021,time_series_covid19_confirmed_US.csv,"Honolulu, Hawaii, US",11/24/2021,59255,59308,"Correct Honolulu, Hawaii, US confirmed data"
+11/25/2021,time_series_covid19_confirmed_US.csv,"Kauai, Hawaii, US",11/24/2021,3006,3029,"Correct Kauai, Hawaii, US confirmed data"
+11/25/2021,time_series_covid19_confirmed_US.csv,"Maui, Hawaii, US",11/24/2021,10251,10265,"Correct Maui, Hawaii, US confirmed data"
+11/25/2021,time_series_covid19_confirmed_US.csv,"Out of HI, Hawaii, US",11/24/2021,2856,2867,"Correct Out of HI, Hawaii, US confirmed data"
+11/25/2021,time_series_covid19_deaths_US.csv,"Honolulu, Hawaii, US",11/24/2021,747,753,"Correct Honolulu, Hawaii, US deaths data"
+11/25/2021,time_series_covid19_confirmed_global.csv,US,11/24/2021,48091937,48092052,Correct US confirmed data
+11/25/2021,time_series_covid19_deaths_global.csv,US,11/24/2021,775397,775403,Correct US deaths data
