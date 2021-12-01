@@ -32321,3 +32321,10 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 11/29/2021,time_series_covid19_deaths_US.csv,"Wyandotte, Kansas, US",11/24/2021,371,372,"Correct Wyandotte, Kansas, US deaths data"
 11/29/2021,time_series_covid19_confirmed_global.csv,US,11/24/2021,48090903,48092823,Correct US confirmed data
 11/29/2021,time_series_covid19_deaths_global.csv,US,11/24/2021,775696,775724,Correct US deaths data
+11/30/2021,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",11/29/2021,66510,66857,"Correct District of Columbia,District of Columbia,US confirmed data"
+11/30/2021,time_series_covid19_confirmed_global.csv,US,11/29/2021,48437955,48438302,Correct US confirmed data
+11/30/2021,time_series_covid19_confirmed_global.csv,Ireland,11/15/2021,498448,503006,Correct Ireland confirmed data
+11/30/2021,time_series_covid19_deaths_global.csv,Afghanistan,11/19/2021,7361,7299,Correct Afghanistan deaths data
+11/30/2021,time_series_covid19_deaths_global.csv,Afghanistan,11/20/2021,7363,7301,Correct Afghanistan deaths data
+11/30/2021,time_series_covid19_deaths_global.csv,Afghanistan,11/21/2021,7365,7303,Correct Afghanistan deaths data
+11/30/2021,time_series_covid19_deaths_global.csv,Afghanistan,11/22/2021,7365,7303,Correct Afghanistan deaths data
