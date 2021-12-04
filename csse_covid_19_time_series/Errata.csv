@@ -32500,3 +32500,7 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 12/02/2021,time_series_covid19_confirmed_global.csv,US,11/29/2021,48438302,48438876,Correct US confirmed data
 12/02/2021,time_series_covid19_confirmed_global.csv,US,11/30/2021,48554890,48555974,Correct US confirmed data
 12/02/2021,time_series_covid19_confirmed_global.csv,US,12/01/2021,48692492,48691353,Correct US confirmed data
+12/03/2021,time_series_covid19_confirmed_global.csv,Peru,12/01/2021,2236351,2237842,Correct Peru confirmed data
+12/03/2021,time_series_covid19_confirmed_global.csv,Peru,12/02/2021,2236351,2239421,Correct Peru confirmed data
+12/03/2021,time_series_covid19_deaths_global.csv,Peru,12/01/2021,201176,201209,Correct Peru deaths data
+12/03/2021,time_series_covid19_deaths_global.csv,Peru,12/02/2021,201176,201282,Correct Peru deaths data
