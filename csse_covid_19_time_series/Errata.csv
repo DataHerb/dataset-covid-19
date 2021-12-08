@@ -32534,3 +32534,13 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 12/06/2021,time_series_covid19_confirmed_global.csv,New Zealand,12/03/2021,1,2,Correct New Zealand confirmed data
 12/06/2021,time_series_covid19_confirmed_global.csv,New Zealand,12/04/2021,1,2,Correct New Zealand confirmed data
 12/06/2021,time_series_covid19_confirmed_global.csv,New Zealand,12/05/2021,1,2,Correct New Zealand confirmed data
+12/07/2021,time_series_covid19_confirmed_global.csv,Mexico,12/06/2021,3901263,3902015,Correct Mexico confirmed data
+12/07/2021,time_series_covid19_deaths_global.csv,Mexico,12/06/2021,295203,295313,Correct Mexico deaths data
+12/08/2021,time_series_covid19_confirmed_global.csv,France,12/04/2021,7685153,7684993,Correct France confirmed data
+12/08/2021,time_series_covid19_confirmed_global.csv,France,12/05/2021,7727405,7727146,Correct France confirmed data
+12/08/2021,time_series_covid19_confirmed_global.csv,France,12/06/2021,7727405,7738424,Correct France confirmed data
+12/08/2021,time_series_covid19_confirmed_global.csv,France,12/07/2021,7797443,7794665,Correct France confirmed data
+12/08/2021,time_series_covid19_deaths_global.csv,France,12/04/2021,117065,117064,Correct France deaths data
+12/08/2021,time_series_covid19_deaths_global.csv,France,12/05/2021,117094,117091,Correct France deaths data
+12/08/2021,time_series_covid19_deaths_global.csv,France,12/06/2021,117094,117283,Correct France deaths data
+12/08/2021,time_series_covid19_deaths_global.csv,France,12/07/2021,117455,117447,Correct France deaths data
