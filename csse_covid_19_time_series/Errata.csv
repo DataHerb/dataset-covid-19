@@ -32695,3 +32695,7 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 12/14/2021,time_series_covid19_deaths_US.csv,"Yavapai, Arizona, US",12/13/2021,868,867,"Correct Yavapai, Arizona, US deaths data"
 12/14/2021,time_series_covid19_confirmed_global.csv,US,12/13/2021,50117198,50119589,Correct US confirmed data
 12/14/2021,time_series_covid19_deaths_global.csv,US,12/13/2021,798710,798714,Correct US deaths data
+12/17/2021,time_series_covid19_confirmed_global.csv,Mexico,12/16/2021,3924638,3927265,Correct Mexico confirmed data
+12/17/2021,time_series_covid19_deaths_global.csv,Mexico,12/16/2021,297188,297356,Correct Mexico deaths data
+12/17/2021,time_series_covid19_confirmed_global.csv,Turkey,12/16/2021,9102294,9138535,Correct Turkey confirmed data
+12/17/2021,time_series_covid19_deaths_global.csv,Turkey,12/16/2021,79696,80053,Correct Turkey deaths data
