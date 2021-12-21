@@ -32699,3 +32699,7 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 12/17/2021,time_series_covid19_deaths_global.csv,Mexico,12/16/2021,297188,297356,Correct Mexico deaths data
 12/17/2021,time_series_covid19_confirmed_global.csv,Turkey,12/16/2021,9102294,9138535,Correct Turkey confirmed data
 12/17/2021,time_series_covid19_deaths_global.csv,Turkey,12/16/2021,79696,80053,Correct Turkey deaths data
+12/20/2021,time_series_covid19_confirmed_global.csv,Turkey,12/16/2021,9138535,9120394,Correct Turkey confirmed data
+12/20/2021,time_series_covid19_confirmed_global.csv,Turkey,12/18/2021,9138535,9156179,Correct Turkey confirmed data
+12/20/2021,time_series_covid19_deaths_global.csv,Turkey,12/16/2021,80053,79863,Correct Turkey deaths data
+12/20/2021,time_series_covid19_deaths_global.csv,Turkey,12/18/2021,80053,80244,Correct Turkey deaths data
