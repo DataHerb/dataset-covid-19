@@ -32703,3 +32703,44 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 12/20/2021,time_series_covid19_confirmed_global.csv,Turkey,12/18/2021,9138535,9156179,Correct Turkey confirmed data
 12/20/2021,time_series_covid19_deaths_global.csv,Turkey,12/16/2021,80053,79863,Correct Turkey deaths data
 12/20/2021,time_series_covid19_deaths_global.csv,Turkey,12/18/2021,80053,80244,Correct Turkey deaths data
+12/22/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Maryland, US",12/05/2021,0,966,"Correct Unassigned, Maryland, US confirmed data"
+12/22/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Maryland, US",12/06/2021,0,1925,"Correct Unassigned, Maryland, US confirmed data"
+12/22/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Maryland, US",12/07/2021,0,3101,"Correct Unassigned, Maryland, US confirmed data"
+12/22/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Maryland, US",12/08/2021,0,4288,"Correct Unassigned, Maryland, US confirmed data"
+12/22/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Maryland, US",12/09/2021,0,5787,"Correct Unassigned, Maryland, US confirmed data"
+12/22/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Maryland, US",12/10/2021,0,7499,"Correct Unassigned, Maryland, US confirmed data"
+12/22/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Maryland, US",12/11/2021,0,8711,"Correct Unassigned, Maryland, US confirmed data"
+12/22/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Maryland, US",12/12/2021,0,10053,"Correct Unassigned, Maryland, US confirmed data"
+12/22/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Maryland, US",12/13/2021,0,11493,"Correct Unassigned, Maryland, US confirmed data"
+12/22/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Maryland, US",12/14/2021,0,13183,"Correct Unassigned, Maryland, US confirmed data"
+12/22/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Maryland, US",12/15/2021,0,15319,"Correct Unassigned, Maryland, US confirmed data"
+12/22/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Maryland, US",12/16/2021,0,18390,"Correct Unassigned, Maryland, US confirmed data"
+12/22/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Maryland, US",12/17/2021,0,21814,"Correct Unassigned, Maryland, US confirmed data"
+12/22/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Maryland, US",12/18/2021,0,25065,"Correct Unassigned, Maryland, US confirmed data"
+12/22/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Maryland, US",12/19/2021,0,27434,"Correct Unassigned, Maryland, US confirmed data"
+12/22/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Maryland, US",12/20/2021,0,28541,"Correct Unassigned, Maryland, US confirmed data"
+12/22/2021,time_series_covid19_confirmed_US.csv,"Unassigned, Maryland, US",12/21/2021,0,34759,"Correct Unassigned, Maryland, US confirmed data"
+12/22/2021,time_series_covid19_confirmed_global.csv,US,12/05/2021,49100155,49101121,Correct US confirmed data
+12/22/2021,time_series_covid19_confirmed_global.csv,US,12/06/2021,49282515,49284440,Correct US confirmed data
+12/22/2021,time_series_covid19_confirmed_global.csv,US,12/07/2021,49394625,49397726,Correct US confirmed data
+12/22/2021,time_series_covid19_confirmed_global.csv,US,12/08/2021,49544295,49548583,Correct US confirmed data
+12/22/2021,time_series_covid19_confirmed_global.csv,US,12/09/2021,49664988,49670775,Correct US confirmed data
+12/22/2021,time_series_covid19_confirmed_global.csv,US,12/10/2021,49833964,49841463,Correct US confirmed data
+12/22/2021,time_series_covid19_confirmed_global.csv,US,12/11/2021,49885157,49893868,Correct US confirmed data
+12/22/2021,time_series_covid19_confirmed_global.csv,US,12/12/2021,49933337,49943390,Correct US confirmed data
+12/22/2021,time_series_covid19_confirmed_global.csv,US,12/13/2021,50122435,50133928,Correct US confirmed data
+12/22/2021,time_series_covid19_confirmed_global.csv,US,12/14/2021,50236542,50249725,Correct US confirmed data
+12/22/2021,time_series_covid19_confirmed_global.csv,US,12/15/2021,50378175,50393494,Correct US confirmed data
+12/22/2021,time_series_covid19_confirmed_global.csv,US,12/16/2021,50516465,50534855,Correct US confirmed data
+12/22/2021,time_series_covid19_confirmed_global.csv,US,12/17/2021,50705659,50727473,Correct US confirmed data
+12/22/2021,time_series_covid19_confirmed_global.csv,US,12/18/2021,50776013,50801078,Correct US confirmed data
+12/22/2021,time_series_covid19_confirmed_global.csv,US,12/19/2021,50846828,50874262,Correct US confirmed data
+12/22/2021,time_series_covid19_confirmed_global.csv,US,12/20/2021,51100782,51129323,Correct US confirmed data
+12/22/2021,time_series_covid19_confirmed_global.csv,US,12/21/2021,51272854,51307613,Correct US confirmed data
+12/22/2021,time_series_covid19_confirmed_global.csv,Afghanistan,12/05/2021,157445,157454,Correct Afghanistan confirmed data
+12/22/2021,time_series_covid19_confirmed_global.csv,Afghanistan,12/10/2021,157858,157603,Correct Afghanistan confirmed data
+12/22/2021,time_series_covid19_confirmed_global.csv,Afghanistan,12/11/2021,157858,157611,Correct Afghanistan confirmed data
+12/22/2021,time_series_covid19_confirmed_global.csv,Afghanistan,12/12/2021,157858,157633,Correct Afghanistan confirmed data
+12/22/2021,time_series_covid19_confirmed_global.csv,Afghanistan,12/20/2021,157795,157797,Correct Afghanistan confirmed data
+12/22/2021,time_series_covid19_deaths_global.csv,Afghanistan,12/08/2021,7317,7319,Correct Afghanistan deaths data
+12/22/2021,time_series_covid19_deaths_global.csv,Afghanistan,12/10/2021,7322,7324,Correct Afghanistan deaths data
