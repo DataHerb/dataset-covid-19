@@ -32761,3 +32761,23 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 12/28/2021,time_series_covid19_deaths_global.csv,Denmark,12/27/2021,3101,3217,Correct Denmark deaths data
 12/28/2021,time_series_covid19_confirmed_global.csv,Romania,12/22/2021,1799455,1800306,Correct Romania confirmed data
 12/28/2021,time_series_covid19_deaths_global.csv,Romania,12/22/2021,58320,58382,Correct Romania deaths data
+01/03/2022,time_series_covid19_confirmed_global.csv,Chile,01/01/2022,1806494,1808398,Correct Chile confirmed data
+01/03/2022,time_series_covid19_deaths_global.csv,Chile,01/01/2022,39115,39140,Correct Chile deaths data
+01/03/2022,time_series_covid19_confirmed_global.csv,Tanzania,07/23/2021,509,609,Correct Tanzania confirmed data
+01/03/2022,time_series_covid19_confirmed_global.csv,Tanzania,07/24/2021,509,609,Correct Tanzania confirmed data
+01/03/2022,time_series_covid19_confirmed_global.csv,Tanzania,07/25/2021,509,609,Correct Tanzania confirmed data
+01/03/2022,time_series_covid19_confirmed_global.csv,Tanzania,07/26/2021,509,609,Correct Tanzania confirmed data
+01/03/2022,time_series_covid19_confirmed_global.csv,Tanzania,07/27/2021,509,609,Correct Tanzania confirmed data
+01/03/2022,time_series_covid19_confirmed_global.csv,Tanzania,07/28/2021,509,609,Correct Tanzania confirmed data
+01/03/2022,time_series_covid19_confirmed_global.csv,Tanzania,09/23/2021,1367,25674,Correct Tanzania confirmed data
+01/03/2022,time_series_covid19_confirmed_global.csv,Tanzania,09/24/2021,1367,25674,Correct Tanzania confirmed data
+01/03/2022,time_series_covid19_confirmed_global.csv,Tanzania,09/25/2021,1367,25674,Correct Tanzania confirmed data
+01/03/2022,time_series_covid19_confirmed_global.csv,Tanzania,09/26/2021,1367,25674,Correct Tanzania confirmed data
+01/03/2022,time_series_covid19_confirmed_global.csv,Tanzania,09/27/2021,1367,25674,Correct Tanzania confirmed data
+01/03/2022,time_series_covid19_confirmed_global.csv,Tanzania,09/28/2021,1367,25674,Correct Tanzania confirmed data
+01/03/2022,time_series_covid19_confirmed_global.csv,Tanzania,09/29/2021,1367,25846,Correct Tanzania confirmed data
+01/03/2022,time_series_covid19_confirmed_global.csv,Tanzania,09/30/2021,1367,25846,Correct Tanzania confirmed data
+01/03/2022,time_series_covid19_confirmed_global.csv,Tanzania,11/14/2021,26196,26208,Correct Tanzania confirmed data
+01/03/2022,time_series_covid19_confirmed_global.csv,Argentina,12/13/2021,5358455,5361967,Correct Argentina confirmed data
+01/03/2022,time_series_covid19_deaths_global.csv,Argentina,12/13/2021,116771,116792,Correct Argentina deaths data
+01/03/2022,time_series_covid19_confirmed_global.csv,United Kingdom,12/30/2021,3071,3397,Correct United Kingdom confirmed data
