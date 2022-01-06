@@ -32889,3 +32889,29 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/05/2022,time_series_covid19_deaths_US.csv,"Wood, Wisconsin, US",01/04/2022,176,179,"Correct Wood, Wisconsin, US deaths data"
 01/05/2022,time_series_covid19_confirmed_global.csv,US,01/04/2022,57048800,57058734,Correct US confirmed data
 01/05/2022,time_series_covid19_deaths_global.csv,US,01/04/2022,830071,830132,Correct US deaths data
+01/05/2022,time_series_covid19_confirmed_global.csv,Mexico,01/01/2022,3979723,3988916,Correct Mexico confirmed data
+01/05/2022,time_series_covid19_confirmed_global.csv,Mexico,01/02/2022,3988916,3990587,Correct Mexico confirmed data
+01/05/2022,time_series_covid19_confirmed_global.csv,Mexico,01/04/2022,3993464,4008648,Correct Mexico confirmed data
+01/05/2022,time_series_covid19_deaths_global.csv,Mexico,01/01/2022,299428,299525,Correct Mexico deaths data
+01/05/2022,time_series_covid19_deaths_global.csv,Mexico,01/02/2022,299525,299544,Correct Mexico deaths data
+01/05/2022,time_series_covid19_deaths_global.csv,Mexico,01/04/2022,299581,299711,Correct Mexico deaths data
+01/05/2022,time_series_covid19_deaths_global.csv,United Kingdom,12/25/2021,147857,147867,Correct United Kingdom deaths data
+01/05/2022,time_series_covid19_deaths_global.csv,United Kingdom,12/26/2021,147857,147870,Correct United Kingdom deaths data
+01/05/2022,time_series_covid19_deaths_global.csv,United Kingdom,12/27/2021,148003,148013,Correct United Kingdom deaths data
+01/05/2022,time_series_covid19_deaths_global.csv,United Kingdom,12/28/2021,148021,148032,Correct United Kingdom deaths data
+01/05/2022,time_series_covid19_confirmed_global.csv,United Kingdom,12/25/2021,11891292,12013153,Correct United Kingdom confirmed data
+01/05/2022,time_series_covid19_confirmed_global.csv,United Kingdom,12/26/2021,11891292,12132098,Correct United Kingdom confirmed data
+01/05/2022,time_series_covid19_confirmed_global.csv,United Kingdom,12/27/2021,12209991,12239797,Correct United Kingdom confirmed data
+01/05/2022,time_series_covid19_confirmed_global.csv,United Kingdom,12/28/2021,12338676,12377822,Correct United Kingdom confirmed data
+01/05/2022,time_series_covid19_confirmed_global.csv,US,01/01/2022,54858366,54858824,Correct US confirmed data
+01/05/2022,time_series_covid19_confirmed_US.csv,"Out of TN, Tennessee, US",12/30/2021,32414,32385,"Correct Out of TN, Tennessee, US confirmed data"
+01/05/2022,time_series_covid19_deaths_US.csv,"Out of TN, Tennessee, US",12/30/2021,213,211,"Correct Out of TN, Tennessee, US deaths data"
+01/05/2022,time_series_covid19_confirmed_global.csv,US,12/30/2021,54269896,54269867,Correct US confirmed data
+01/05/2022,time_series_covid19_deaths_global.csv,US,12/30/2021,824968,824966,Correct US deaths data
+01/05/2022,time_series_covid19_confirmed_global.csv,Malaysia,12/30/2021,2755130,2754513,Correct Malaysia confirmed data
+01/05/2022,time_series_covid19_confirmed_global.csv,Australia,12/30/2021,166373,187504,Correct Australia confirmed data
+01/05/2022,time_series_covid19_confirmed_global.csv,Australia,12/30/2021,510,572,Correct Australia confirmed data
+01/05/2022,time_series_covid19_confirmed_global.csv,Australia,12/30/2021,10752,13863,Correct Australia confirmed data
+01/05/2022,time_series_covid19_confirmed_global.csv,Australia,12/30/2021,8993,11078,Correct Australia confirmed data
+01/05/2022,time_series_covid19_confirmed_global.csv,Australia,12/30/2021,637,785,Correct Australia confirmed data
+01/05/2022,time_series_covid19_deaths_global.csv,Australia,12/30/2021,657,663,Correct Australia deaths data
