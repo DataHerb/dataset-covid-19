@@ -33035,3 +33035,15 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/11/2022,time_series_covid19_deaths_global.csv,Jordan,01/08/2022,12372,12856,Correct Jordan deaths data
 01/11/2022,time_series_covid19_deaths_global.csv,Jordan,01/09/2022,12372,12876,Correct Jordan deaths data
 01/11/2022,time_series_covid19_deaths_global.csv,Jordan,01/10/2022,12372,12893,Correct Jordan deaths data
+01/13/2022,time_series_covid19_confirmed_global.csv,Brazil,01/05/2022,22328252,22351104,Correct Brazil confirmed data
+01/13/2022,time_series_covid19_confirmed_global.csv,Brazil,01/06/2022,22328252,22386930,Correct Brazil confirmed data
+01/13/2022,time_series_covid19_confirmed_global.csv,Brazil,01/07/2022,22328252,22450222,Correct Brazil confirmed data
+01/13/2022,time_series_covid19_confirmed_global.csv,Brazil,01/08/2022,22328252,22499525,Correct Brazil confirmed data
+01/13/2022,time_series_covid19_deaths_global.csv,Brazil,01/07/2022,619654,619822,Correct Brazil deaths data
+01/13/2022,time_series_covid19_deaths_global.csv,Brazil,01/08/2022,619654,619937,Correct Brazil deaths data
+01/13/2022,time_series_covid19_confirmed_global.csv,Jamaica,01/10/2022,102505,103458,Correct Jamaica confirmed data
+01/13/2022,time_series_covid19_confirmed_global.csv,Jamaica,01/11/2022,102505,105172,Correct Jamaica confirmed data
+01/13/2022,time_series_covid19_confirmed_global.csv,Jamaica,01/12/2022,102505,106379,Correct Jamaica confirmed data
+01/13/2022,time_series_covid19_deaths_global.csv,Jamaica,01/10/2022,2499,2501,Correct Jamaica deaths data
+01/13/2022,time_series_covid19_deaths_global.csv,Jamaica,01/11/2022,2499,2502,Correct Jamaica deaths data
+01/13/2022,time_series_covid19_deaths_global.csv,Jamaica,01/12/2022,2499,2506,Correct Jamaica deaths data
