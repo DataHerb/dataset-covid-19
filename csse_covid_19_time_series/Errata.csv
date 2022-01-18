@@ -33051,3 +33051,16 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/14/2022,time_series_covid19_confirmed_global.csv,Peru,01/13/2022,2412577,2473709,Correct Peru confirmed data
 01/14/2022,time_series_covid19_deaths_global.csv,Peru,01/12/2022,203157,203193,Correct Peru deaths data
 01/14/2022,time_series_covid19_deaths_global.csv,Peru,01/13/2022,203157,203255,Correct Peru deaths data
+01/17/2022,time_series_covid19_confirmed_global.csv,Peru,01/09/2022,2358685,2375813,Correct Peru confirmed data
+01/17/2022,time_series_covid19_confirmed_global.csv,Peru,01/10/2022,2375813,2388289,Correct Peru confirmed data
+01/17/2022,time_series_covid19_confirmed_global.csv,Peru,01/14/2022,2473709,2512789,Correct Peru confirmed data
+01/17/2022,time_series_covid19_confirmed_global.csv,Peru,01/15/2022,2496542,2562534,Correct Peru confirmed data
+01/17/2022,time_series_covid19_confirmed_global.csv,Peru,01/16/2022,2562534,2606126,Correct Peru confirmed data
+01/17/2022,time_series_covid19_deaths_global.csv,Peru,01/09/2022,203019,203067,Correct Peru deaths data
+01/17/2022,time_series_covid19_deaths_global.csv,Peru,01/10/2022,203067,203097,Correct Peru deaths data
+01/17/2022,time_series_covid19_deaths_global.csv,Peru,01/14/2022,203255,203302,Correct Peru deaths data
+01/17/2022,time_series_covid19_deaths_global.csv,Peru,01/15/2022,203265,203376,Correct Peru deaths data
+01/17/2022,time_series_covid19_deaths_global.csv,Peru,01/16/2022,203376,203464,Correct Peru deaths data
+01/17/2022,time_series_covid19_confirmed_global.csv,US,01/14/2022,64920604,64920670,Correct US confirmed data
+01/17/2022,time_series_covid19_confirmed_global.csv,US,01/15/2022,65445397,65445434,Correct US confirmed data
+01/17/2022,time_series_covid19_deaths_global.csv,US,01/14/2022,849256,849257,Correct US deaths data
