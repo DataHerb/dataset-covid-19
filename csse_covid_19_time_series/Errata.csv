@@ -33064,3 +33064,111 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/17/2022,time_series_covid19_confirmed_global.csv,US,01/14/2022,64920604,64920670,Correct US confirmed data
 01/17/2022,time_series_covid19_confirmed_global.csv,US,01/15/2022,65445397,65445434,Correct US confirmed data
 01/17/2022,time_series_covid19_deaths_global.csv,US,01/14/2022,849256,849257,Correct US deaths data
+01/18/2022,time_series_covid19_confirmed_US.csv,"Dane, Wisconsin, US",01/17/2022,81956,98994,"Correct Dane, Wisconsin, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_US.csv,"Waukesha, Wisconsin, US",01/17/2022,85141,100067,"Correct Waukesha, Wisconsin, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_global.csv,US,01/17/2022,66421749,66453713,Correct US confirmed data
+01/18/2022,time_series_covid19_confirmed_US.csv,"Carson City, Nevada, US",01/17/2022,10762,10891,"Correct Carson City, Nevada, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_US.csv,"Churchill, Nevada, US",01/17/2022,4762,4804,"Correct Churchill, Nevada, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_US.csv,"Clark, Nevada, US",01/17/2022,419141,436128,"Correct Clark, Nevada, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_US.csv,"Douglas, Nevada, US",01/17/2022,6019,6180,"Correct Douglas, Nevada, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_US.csv,"Elko, Nevada, US",01/17/2022,9389,10268,"Correct Elko, Nevada, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_US.csv,"Esmeralda, Nevada, US",01/17/2022,72,74,"Correct Esmeralda, Nevada, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_US.csv,"Eureka, Nevada, US",01/17/2022,200,266,"Correct Eureka, Nevada, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_US.csv,"Humboldt, Nevada, US",01/17/2022,2806,3502,"Correct Humboldt, Nevada, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_US.csv,"Lander, Nevada, US",01/17/2022,833,915,"Correct Lander, Nevada, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_US.csv,"Lincoln, Nevada, US",01/17/2022,680,812,"Correct Lincoln, Nevada, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_US.csv,"Lyon, Nevada, US",01/17/2022,8126,8345,"Correct Lyon, Nevada, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_US.csv,"Mineral, Nevada, US",01/17/2022,703,714,"Correct Mineral, Nevada, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_US.csv,"Nye, Nevada, US",01/17/2022,5361,5709,"Correct Nye, Nevada, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_US.csv,"Storey, Nevada, US",01/17/2022,269,275,"Correct Storey, Nevada, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_US.csv,"Washoe, Nevada, US",01/17/2022,77453,81129,"Correct Washoe, Nevada, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_US.csv,"White Pine, Nevada, US",01/17/2022,1376,1511,"Correct White Pine, Nevada, US confirmed data"
+01/18/2022,time_series_covid19_deaths_US.csv,"Eureka, Nevada, US",01/17/2022,0,1,"Correct Eureka, Nevada, US deaths data"
+01/18/2022,time_series_covid19_confirmed_global.csv,US,01/17/2022,66453713,66477284,Correct US confirmed data
+01/18/2022,time_series_covid19_deaths_global.csv,US,01/17/2022,851730,851731,Correct US deaths data
+01/18/2022,time_series_covid19_confirmed_global.csv,Australia,01/17/2022,214577,245633,Correct Australia confirmed data
+01/18/2022,time_series_covid19_deaths_global.csv,Australia,01/17/2022,29,52,Correct Australia deaths data
+01/18/2022,time_series_covid19_confirmed_global.csv,Canada,01/17/2022,1055,1195,Correct Canada confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Canada,01/17/2022,3861,4401,Correct Canada confirmed data
+01/18/2022,time_series_covid19_confirmed_US.csv,"Potter, Texas, US",01/17/2022,29762,29759,"Correct Potter, Texas, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_US.csv,"Throckmorton, Texas, US",01/17/2022,175,225,"Correct Throckmorton, Texas, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_US.csv,"Unassigned, Texas, US",01/17/2022,0,49836,"Correct Unassigned, Texas, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_global.csv,US,01/17/2022,66477284,66527167,Correct US confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,France,01/17/2022,65135,73660,Correct France confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,France,01/17/2022,415,494,Correct France confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Mauritius,01/17/2022,22586,24903,Correct Mauritius confirmed data
+01/18/2022,time_series_covid19_confirmed_US.csv,"Napa, California, US",01/17/2022,17946,19819,"Correct Napa, California, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_global.csv,US,01/17/2022,66527167,66529040,Correct US confirmed data
+01/18/2022,time_series_covid19_confirmed_US.csv,"Manassas Park, Virginia, US",01/17/2022,1879,2119,"Correct Manassas Park, Virginia, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_global.csv,US,01/17/2022,66529040,66529280,Correct US confirmed data
+01/18/2022,time_series_covid19_deaths_US.csv,"Sedgwick, Colorado, US",01/17/2022,6,7,"Correct Sedgwick, Colorado, US deaths data"
+01/18/2022,time_series_covid19_deaths_global.csv,US,01/17/2022,851731,851732,Correct US deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,United Kingdom,01/17/2022,6,7,Correct United Kingdom deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,United Kingdom,01/17/2022,42,47,Correct United Kingdom deaths data
+01/18/2022,time_series_covid19_confirmed_global.csv,France,01/16/2022,13882214,13869172,Correct France confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,France,01/17/2022,13882214,13869172,Correct France confirmed data
+01/18/2022,time_series_covid19_deaths_global.csv,France,01/16/2022,124375,124358,Correct France deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,France,01/17/2022,124375,124654,Correct France deaths data
+01/18/2022,time_series_covid19_confirmed_global.csv,United Kingdom,01/16/2022,2040,2109,Correct United Kingdom confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,United Kingdom,01/17/2022,2040,2109,Correct United Kingdom confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,United Kingdom,01/17/2022,5255,5449,Correct United Kingdom confirmed data
+01/18/2022,time_series_covid19_deaths_global.csv,United Kingdom,01/16/2022,6,7,Correct United Kingdom deaths data
+01/18/2022,time_series_covid19_confirmed_US.csv,"Sedgwick, Colorado, US",01/17/2022,385,388,"Correct Sedgwick, Colorado, US confirmed data"
+01/18/2022,time_series_covid19_confirmed_global.csv,US,01/17/2022,66529280,66529283,Correct US confirmed data
+01/18/2022,time_series_covid19_deaths_global.csv,France,01/17/2022,832,835,Correct France deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Canada,01/14/2022,0,2,Correct Canada deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Canada,01/15/2022,0,2,Correct Canada deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Canada,01/16/2022,0,2,Correct Canada deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Canada,01/17/2022,0,2,Correct Canada deaths data
+01/18/2022,time_series_covid19_deaths_US.csv,"Dane, Wisconsin, US",01/17/2022,430,433,"Correct Dane, Wisconsin, US deaths data"
+01/18/2022,time_series_covid19_deaths_US.csv,"Waukesha, Wisconsin, US",01/17/2022,854,858,"Correct Waukesha, Wisconsin, US deaths data"
+01/18/2022,time_series_covid19_deaths_global.csv,US,01/17/2022,852055,852062,Correct US deaths data
+01/18/2022,time_series_covid19_confirmed_global.csv,Palau,12/28/2021,8,10,Correct Palau confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Palau,12/29/2021,8,10,Correct Palau confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Palau,12/30/2021,8,10,Correct Palau confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Palau,12/31/2021,8,10,Correct Palau confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Palau,01/01/2022,8,12,Correct Palau confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Palau,01/02/2022,8,13,Correct Palau confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Palau,01/03/2022,8,13,Correct Palau confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Palau,01/04/2022,8,13,Correct Palau confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Palau,01/05/2022,8,15,Correct Palau confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Palau,01/06/2022,8,16,Correct Palau confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Palau,01/07/2022,8,18,Correct Palau confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Palau,01/08/2022,8,18,Correct Palau confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Palau,01/09/2022,8,18,Correct Palau confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Palau,01/10/2022,8,20,Correct Palau confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Palau,01/11/2022,8,28,Correct Palau confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Palau,01/12/2022,8,32,Correct Palau confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Palau,01/13/2022,8,39,Correct Palau confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Palau,01/14/2022,8,40,Correct Palau confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Palau,01/15/2022,8,40,Correct Palau confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Palau,01/16/2022,8,64,Correct Palau confirmed data
+01/18/2022,time_series_covid19_confirmed_global.csv,Palau,01/17/2022,8,119,Correct Palau confirmed data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,11/05/2020,60,59,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,12/28/2020,61,60,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,12/31/2020,63,61,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,01/01/2021,64,63,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,01/03/2021,65,64,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,01/19/2021,71,72,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,02/01/2021,79,78,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,02/18/2021,83,82,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,03/17/2021,89,90,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,10/06/2021,17418,17305,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,11/02/2021,19394,19338,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,11/04/2021,19542,19462,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,11/05/2021,19611,19542,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,11/25/2021,20645,20581,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,11/26/2021,20677,20645,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,12/05/2021,20966,20944,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,12/06/2021,20997,20966,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,12/08/2021,21084,21035,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,12/09/2021,21112,21084,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,12/10/2021,21151,21112,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,12/11/2021,21171,21151,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,12/16/2021,21327,21286,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,12/26/2021,21598,21580,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,01/05/2022,21750,21769,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,01/12/2022,21883,21869,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,01/15/2022,21898,21916,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,01/16/2022,21898,21925,Correct Thailand deaths data
+01/18/2022,time_series_covid19_deaths_global.csv,Thailand,01/17/2022,21898,21938,Correct Thailand deaths data
