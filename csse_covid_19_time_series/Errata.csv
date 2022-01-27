@@ -33447,3 +33447,133 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/25/2022,time_series_covid19_deaths_US.csv,"Van Buren, Arkansas, US",01/24/2022,46,47,"Correct Van Buren, Arkansas, US deaths data"
 01/25/2022,time_series_covid19_confirmed_global.csv,US,01/24/2022,71708189,71711432,Correct US confirmed data
 01/25/2022,time_series_covid19_deaths_global.csv,US,01/24/2022,868503,868524,Correct US deaths data
+01/26/2022,time_series_covid19_confirmed_US.csv,"Autauga, Alabama, US",01/25/2022,13251,13320,"Correct Autauga, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Baldwin, Alabama, US",01/25/2022,50313,50660,"Correct Baldwin, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Barbour, Alabama, US",01/25/2022,5054,5053,"Correct Barbour, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Bibb, Alabama, US",01/25/2022,5795,5827,"Correct Bibb, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Blount, Alabama, US",01/25/2022,13427,13485,"Correct Blount, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Bullock, Alabama, US",01/25/2022,2149,2158,"Correct Bullock, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Butler, Alabama, US",01/25/2022,4519,4544,"Correct Butler, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Calhoun, Alabama, US",01/25/2022,28519,28639,"Correct Calhoun, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Chambers, Alabama, US",01/25/2022,7882,7914,"Correct Chambers, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Cherokee, Alabama, US",01/25/2022,4529,4572,"Correct Cherokee, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Chilton, Alabama, US",01/25/2022,9409,9461,"Correct Chilton, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Choctaw, Alabama, US",01/25/2022,1603,1631,"Correct Choctaw, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Clarke, Alabama, US",01/25/2022,6415,6449,"Correct Clarke, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Clay, Alabama, US",01/25/2022,3620,3648,"Correct Clay, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Cleburne, Alabama, US",01/25/2022,3126,3158,"Correct Cleburne, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Coffee, Alabama, US",01/25/2022,12194,12327,"Correct Coffee, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Colbert, Alabama, US",01/25/2022,14225,14391,"Correct Colbert, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Conecuh, Alabama, US",01/25/2022,2612,2633,"Correct Conecuh, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Coosa, Alabama, US",01/25/2022,2601,2625,"Correct Coosa, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Covington, Alabama, US",01/25/2022,8579,85607,"Correct Covington, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Crenshaw, Alabama, US",01/25/2022,3383,3425,"Correct Crenshaw, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Cullman, Alabama, US",01/25/2022,21540,21729,"Correct Cullman, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Dale, Alabama, US",01/25/2022,11374,11449,"Correct Dale, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Dallas, Alabama, US",01/25/2022,7314,7396,"Correct Dallas, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"DeKalb, Alabama, US",01/25/2022,16720,16797,"Correct DeKalb, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Elmore, Alabama, US",01/25/2022,20438,20577,"Correct Elmore, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Escambia, Alabama, US",01/25/2022,9199,9278,"Correct Escambia, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Etowah, Alabama, US",01/25/2022,25674,25935,"Correct Etowah, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Fayette, Alabama, US",01/25/2022,4161,4214,"Correct Fayette, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Franklin, Alabama, US",01/25/2022,8565,8667,"Correct Franklin, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Geneva, Alabama, US",01/25/2022,5552,5595,"Correct Geneva, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Greene, Alabama, US",01/25/2022,1665,1675,"Correct Greene, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Hale, Alabama, US",01/25/2022,4226,4252,"Correct Hale, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Henry, Alabama, US",01/25/2022,4016,4048,"Correct Henry, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Houston, Alabama, US",01/25/2022,22588,22797,"Correct Houston, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Jackson, Alabama, US",01/25/2022,13095,13210,"Correct Jackson, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Jefferson, Alabama, US",01/25/2022,166471,167656,"Correct Jefferson, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Lamar, Alabama, US",01/25/2022,3222,3242,"Correct Lamar, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Lauderdale, Alabama, US",01/25/2022,21126,21330,"Correct Lauderdale, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Lawrence, Alabama, US",01/25/2022,6648,6713,"Correct Lawrence, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Lee, Alabama, US",01/25/2022,34631,34851,"Correct Lee, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Limestone, Alabama, US",01/25/2022,22071,22252,"Correct Limestone, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Lowndes, Alabama, US",01/25/2022,2375,2380,"Correct Lowndes, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Macon, Alabama, US",01/25/2022,3466,3488,"Correct Macon, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Madison, Alabama, US",01/25/2022,77389,78086,"Correct Madison, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Marengo, Alabama, US",01/25/2022,4372,4387,"Correct Marengo, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Marion, Alabama, US",01/25/2022,7124,7182,"Correct Marion, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Marshall, Alabama, US",01/25/2022,24157,24301,"Correct Marshall, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Mobile, Alabama, US",01/25/2022,103122,103794,"Correct Mobile, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Monroe, Alabama, US",01/25/2022,4721,4787,"Correct Monroe, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Montgomery, Alabama, US",01/25/2022,48723,48956,"Correct Montgomery, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Morgan, Alabama, US",01/25/2022,31769,31966,"Correct Morgan, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Perry, Alabama, US",01/25/2022,1843,1862,"Correct Perry, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Pickens, Alabama, US",01/25/2022,4711,4728,"Correct Pickens, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Pike, Alabama, US",01/25/2022,6630,6690,"Correct Pike, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Randolph, Alabama, US",01/25/2022,4636,4659,"Correct Randolph, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Russell, Alabama, US",01/25/2022,9057,9142,"Correct Russell, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Shelby, Alabama, US",01/25/2022,53229,53647,"Correct Shelby, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"St. Clair, Alabama, US",01/25/2022,22910,23083,"Correct St. Clair, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Sumter, Alabama, US",01/25/2022,2117,2140,"Correct Sumter, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Talladega, Alabama, US",01/25/2022,19534,19685,"Correct Talladega, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Tallapoosa, Alabama, US",01/25/2022,10289,10400,"Correct Tallapoosa, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Tuscaloosa, Alabama, US",01/25/2022,49533,49943,"Correct Tuscaloosa, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Walker, Alabama, US",01/25/2022,15805,16152,"Correct Walker, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Washington, Alabama, US",01/25/2022,3303,3345,"Correct Washington, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Wilcox, Alabama, US",01/25/2022,2510,2519,"Correct Wilcox, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_confirmed_US.csv,"Winston, Alabama, US",01/25/2022,6323,6445,"Correct Winston, Alabama, US confirmed data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Autauga, Alabama, US",01/25/2022,163,165,"Correct Autauga, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Baldwin, Alabama, US",01/25/2022,608,610,"Correct Baldwin, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Barbour, Alabama, US",01/25/2022,83,84,"Correct Barbour, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Blount, Alabama, US",01/25/2022,204,206,"Correct Blount, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Calhoun, Alabama, US",01/25/2022,544,549,"Correct Calhoun, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Cherokee, Alabama, US",01/25/2022,67,68,"Correct Cherokee, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Choctaw, Alabama, US",01/25/2022,31,32,"Correct Choctaw, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Coffee, Alabama, US",01/25/2022,201,203,"Correct Coffee, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Cullman, Alabama, US",01/25/2022,319,320,"Correct Cullman, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Dale, Alabama, US",01/25/2022,200,201,"Correct Dale, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Dallas, Alabama, US",01/25/2022,218,219,"Correct Dallas, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"DeKalb, Alabama, US",01/25/2022,287,288,"Correct DeKalb, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Elmore, Alabama, US",01/25/2022,302,303,"Correct Elmore, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Escambia, Alabama, US",01/25/2022,151,152,"Correct Escambia, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Etowah, Alabama, US",01/25/2022,534,537,"Correct Etowah, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Geneva, Alabama, US",01/25/2022,141,142,"Correct Geneva, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Jackson, Alabama, US",01/25/2022,207,208,"Correct Jackson, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Jefferson, Alabama, US",01/25/2022,2041,2056,"Correct Jefferson, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Lauderdale, Alabama, US",01/25/2022,329,332,"Correct Lauderdale, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Lawrence, Alabama, US",01/25/2022,140,142,"Correct Lawrence, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Lee, Alabama, US",01/25/2022,275,281,"Correct Lee, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Madison, Alabama, US",01/25/2022,795,800,"Correct Madison, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Marengo, Alabama, US",01/25/2022,93,94,"Correct Marengo, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Marion, Alabama, US",01/25/2022,134,138,"Correct Marion, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Marshall, Alabama, US",01/25/2022,335,339,"Correct Marshall, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Mobile, Alabama, US",01/25/2022,1428,1433,"Correct Mobile, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Monroe, Alabama, US",01/25/2022,67,68,"Correct Monroe, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Montgomery, Alabama, US",01/25/2022,808,812,"Correct Montgomery, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Morgan, Alabama, US",01/25/2022,438,443,"Correct Morgan, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Shelby, Alabama, US",01/25/2022,394,396,"Correct Shelby, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Tuscaloosa, Alabama, US",01/25/2022,674,676,"Correct Tuscaloosa, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Washington, Alabama, US",01/25/2022,52,53,"Correct Washington, Alabama, US deaths data"
+01/26/2022,time_series_covid19_deaths_US.csv,"Winston, Alabama, US",01/25/2022,114,115,"Correct Winston, Alabama, US deaths data"
+01/26/2022,time_series_covid19_confirmed_global.csv,US,01/25/2022,72171208,72257016,Correct US confirmed data
+01/26/2022,time_series_covid19_deaths_global.csv,US,01/25/2022,871937,872025,Correct US deaths data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,466616,477841,Correct Canada confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,308079,314787,Correct Canada confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,116133,116770,Correct Canada confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,26391,26741,Correct Canada confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,14522,15811,Correct Canada confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,4680,5120,Correct Canada confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,34689,35051,Correct Canada confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,1358,1439,Correct Canada confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,838436,841413,Correct Canada confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,110399,111447,Correct Canada confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Canada,01/25/2022,2959,2981,Correct Canada confirmed data
+01/26/2022,time_series_covid19_deaths_global.csv,Canada,01/25/2022,3429,3483,Correct Canada deaths data
+01/26/2022,time_series_covid19_deaths_global.csv,Canada,01/25/2022,2529,2554,Correct Canada deaths data
+01/26/2022,time_series_covid19_deaths_global.csv,Canada,01/25/2022,1515,1521,Correct Canada deaths data
+01/26/2022,time_series_covid19_deaths_global.csv,Canada,01/25/2022,212,215,Correct Canada deaths data
+01/26/2022,time_series_covid19_deaths_global.csv,Canada,01/25/2022,30,31,Correct Canada deaths data
+01/26/2022,time_series_covid19_deaths_global.csv,Canada,01/25/2022,14,15,Correct Canada deaths data
+01/26/2022,time_series_covid19_deaths_global.csv,Canada,01/25/2022,128,131,Correct Canada deaths data
+01/26/2022,time_series_covid19_deaths_global.csv,Canada,01/25/2022,6,9,Correct Canada deaths data
+01/26/2022,time_series_covid19_deaths_global.csv,Canada,01/25/2022,12851,12936,Correct Canada deaths data
+01/26/2022,time_series_covid19_deaths_global.csv,Canada,01/25/2022,975,977,Correct Canada deaths data
+01/26/2022,time_series_covid19_confirmed_global.csv,Kiribati,01/19/2022,2,37,Correct Kiribati confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Kiribati,01/20/2022,2,37,Correct Kiribati confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Kiribati,01/21/2022,2,39,Correct Kiribati confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Kiribati,01/22/2022,2,39,Correct Kiribati confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Kiribati,01/23/2022,2,39,Correct Kiribati confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Kiribati,01/24/2022,2,59,Correct Kiribati confirmed data
+01/26/2022,time_series_covid19_confirmed_global.csv,Kiribati,01/25/2022,2,66,Correct Kiribati confirmed data
