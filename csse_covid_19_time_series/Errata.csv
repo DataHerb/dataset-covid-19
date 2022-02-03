@@ -33603,3 +33603,5 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 01/31/2022,time_series_covid19_deaths_global.csv,Thailand,01/27/2022,22126,22098,Correct Thailand deaths data
 01/31/2022,time_series_covid19_deaths_global.csv,Thailand,01/28/2022,22145,22126,Correct Thailand deaths data
 01/31/2022,time_series_covid19_deaths_global.csv,Thailand,01/30/2022,22173,22157,Correct Thailand deaths data
+02/02/2022,time_series_covid19_confirmed_global.csv,Japan,01/31/2022,2677602,2738460,Correct Japan confirmed data
+02/02/2022,time_series_covid19_deaths_global.csv,Japan,01/31/2022,18764,18812,Correct Japan deaths data
