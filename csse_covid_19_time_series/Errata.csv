@@ -33703,3 +33703,5 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 02/17/2022,time_series_covid19_deaths_US.csv,"Waushara, Wisconsin, US",02/16/2022,80,79,"Correct Waushara, Wisconsin, US deaths data"
 02/17/2022,time_series_covid19_confirmed_global.csv,US,02/16/2022,78171038,78172840,Correct US confirmed data
 02/17/2022,time_series_covid19_deaths_global.csv,US,02/16/2022,928493,928515,Correct US deaths data
+02/17/2022,time_series_covid19_confirmed_global.csv,Spain,02/04/2022,10274653,10199716,Correct Spain confirmed data
+02/17/2022,time_series_covid19_deaths_global.csv,Spain,02/04/2022,94235,94040,Correct Spain deaths data
