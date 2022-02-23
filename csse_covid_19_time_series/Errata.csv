@@ -33705,3 +33705,20 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 02/17/2022,time_series_covid19_deaths_global.csv,US,02/16/2022,928493,928515,Correct US deaths data
 02/17/2022,time_series_covid19_confirmed_global.csv,Spain,02/04/2022,10274653,10199716,Correct Spain confirmed data
 02/17/2022,time_series_covid19_deaths_global.csv,Spain,02/04/2022,94235,94040,Correct Spain deaths data
+02/22/2022,time_series_covid19_confirmed_global.csv,United Kingdom,02/19/2022,18580216,18585423,Correct United Kingdom confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,United Kingdom,02/20/2022,18605752,18616433,Correct United Kingdom confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/07/2022,5185757,5188184,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/08/2022,5217106,5223507,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/09/2022,5258785,5270363,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/10/2022,5296386,5312450,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/11/2022,5328492,5348224,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/12/2022,5356647,5379551,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/13/2022,5376674,5401615,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/14/2022,5388907,5415088,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/15/2022,5408754,5437343,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/16/2022,5434424,5466198,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/17/2022,5460552,5495432,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/18/2022,5481938,5519411,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/19/2022,5500728,5540302,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/20/2022,5513075,5553989,Correct Poland confirmed data
+02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/21/2022,5521766,5563446,Correct Poland confirmed data
