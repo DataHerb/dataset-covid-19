@@ -33722,3 +33722,302 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/19/2022,5500728,5540302,Correct Poland confirmed data
 02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/20/2022,5513075,5553989,Correct Poland confirmed data
 02/22/2022,time_series_covid19_confirmed_global.csv,Poland,02/21/2022,5521766,5563446,Correct Poland confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/19/2021,42171531,42171532,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/20/2021,42350790,42350791,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/21/2021,42467834,42467835,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/22/2021,42604416,42604417,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/23/2021,42731975,42731976,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/24/2021,42908509,42908510,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/25/2021,42967482,42967483,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/26/2021,43019723,43019724,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/27/2021,43179472,43179473,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/28/2021,43292172,43292173,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/29/2021,43413108,43413109,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,09/30/2021,43524434,43524435,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,10/01/2021,43679032,43679033,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,10/02/2021,43726024,43726025,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,10/03/2021,43769615,43769616,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,10/04/2021,43915063,43915064,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,10/05/2021,44010423,44010426,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,10/21/2021,45368825,45368826,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,10/22/2021,45465196,45465197,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,10/23/2021,45497021,45497022,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,10/24/2021,45515582,45515583,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/13/2021,47081716,47081717,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/14/2021,47112926,47112927,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/15/2021,47247736,47247737,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/16/2021,47334791,47334792,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/17/2021,47447472,47447473,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/18/2021,47557649,47557650,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/19/2021,47684556,47684557,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/20/2021,47729348,47729349,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/21/2021,47768578,47768579,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/22/2021,47914225,47914226,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/23/2021,48005504,48005505,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/24/2021,48117034,48117035,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/25/2021,48156087,48156088,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/26/2021,48208781,48208782,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/27/2021,48234774,48234775,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/28/2021,48277269,48277270,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,11/29/2021,48464985,48464980,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/20/2021,51157972,51157973,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/21/2021,51336725,51336726,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/22/2021,51578229,51578230,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/23/2021,51848739,51848740,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/24/2021,52092807,52092808,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/25/2021,52175651,52175652,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/26/2021,52352531,52352532,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/27/2021,52861605,52861606,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/28/2021,53218372,53218373,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/29/2021,53717817,53717818,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/30/2021,54307237,54307238,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,12/31/2021,54809812,54809813,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/01/2022,54991018,54991019,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/02/2022,55269036,55269037,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/03/2022,56345126,56345127,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/04/2022,57150909,57150910,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/05/2022,57795871,57795872,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/06/2022,58610908,58610909,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/07/2022,59467235,59467243,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/08/2022,59853433,59853441,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/09/2022,60329367,60329375,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/10/2022,61697487,61697495,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/11/2022,62466931,62466939,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/12/2022,63376365,63376373,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/13/2022,64216896,64216904,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/14/2022,65076381,65076389,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/15/2022,65470757,65470765,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/16/2022,65939067,65939075,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/17/2022,66600636,66600644,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/18/2022,67713762,67713770,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/19/2022,68712361,68712369,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/01/2022,75397363,75397367,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/02/2022,75724526,75724530,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/03/2022,75977870,75977887,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/04/2022,76349025,76349042,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/05/2022,76453618,76453635,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/06/2022,76534180,76534201,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/07/2022,76873411,76873442,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/08/2022,77096375,77096414,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/09/2022,77285250,77285289,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/10/2022,77457316,77457355,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/11/2022,77667718,77667757,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/12/2022,77723070,77723109,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/13/2022,77780002,77780041,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/14/2022,77944055,77944094,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/15/2022,78059110,78059149,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/16/2022,78174363,78174402,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/17/2022,78275698,78275737,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/18/2022,78421569,78421608,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/19/2022,78455125,78455164,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/20/2022,78477178,78477217,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/21/2022,78548831,78548870,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/22/2022,78648651,78648693,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/23/2022,78733444,78733498,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_US.csv,"Covington, Alabama, US",01/25/2022,85607,8579,"Correct Covington, Alabama, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_global.csv,US,01/25/2022,72347484,72270456,Correct US confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,Philippines,09/27/2021,2490858,2509177,Correct Philippines confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,Philippines,09/28/2021,2509177,2522965,Correct Philippines confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,Philippines,10/07/2021,2622917,2632881,Correct Philippines confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,Philippines,10/28/2021,2768849,2772491,Correct Philippines confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,Philippines,11/10/2021,2806694,2809311,Correct Philippines confirmed data
+02/24/2022,time_series_covid19_confirmed_global.csv,Philippines,12/07/2021,2835154,2835345,Correct Philippines confirmed data
+02/24/2022,time_series_covid19_deaths_global.csv,Philippines,09/27/2021,37405,37494,Correct Philippines deaths data
+02/24/2022,time_series_covid19_deaths_global.csv,Philippines,09/28/2021,37596,37686,Correct Philippines deaths data
+02/24/2022,time_series_covid19_deaths_global.csv,Philippines,10/07/2021,38828,38837,Correct Philippines deaths data
+02/24/2022,time_series_covid19_deaths_global.csv,Philippines,10/28/2021,42348,42575,Correct Philippines deaths data
+02/24/2022,time_series_covid19_deaths_global.csv,Philippines,11/10/2021,44567,44665,Correct Philippines deaths data
+02/24/2022,time_series_covid19_deaths_global.csv,Philippines,12/07/2021,49499,49591,Correct Philippines deaths data
+02/24/2022,time_series_covid19_confirmed_US.csv,"Unassigned, New Jersey, US",02/21/2022,3245,6665,"Correct Unassigned, New Jersey, US confirmed data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Unassigned, New Jersey, US",02/21/2022,0,64,"Correct Unassigned, New Jersey, US deaths data"
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/21/2022,78548870,78552290,Correct US confirmed data
+02/24/2022,time_series_covid19_deaths_global.csv,US,02/21/2022,936764,936828,Correct US deaths data
+02/24/2022,time_series_covid19_confirmed_US.csv,"Accomack, Virginia, US",02/21/2022,6880,6893,"Correct Accomack, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Albemarle, Virginia, US",02/21/2022,15138,15247,"Correct Albemarle, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Alexandria, Virginia, US",02/21/2022,29345,29420,"Correct Alexandria, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Alleghany, Virginia, US",02/21/2022,3491,3511,"Correct Alleghany, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Amelia, Virginia, US",02/21/2022,2552,2558,"Correct Amelia, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Amherst, Virginia, US",02/21/2022,6753,6796,"Correct Amherst, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Appomattox, Virginia, US",02/21/2022,3583,3600,"Correct Appomattox, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Arlington, Virginia, US",02/21/2022,39749,39923,"Correct Arlington, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Augusta, Virginia, US",02/21/2022,18494,18573,"Correct Augusta, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Bath, Virginia, US",02/21/2022,861,866,"Correct Bath, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Bedford, Virginia, US",02/21/2022,16066,16156,"Correct Bedford, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Bland, Virginia, US",02/21/2022,1723,1730,"Correct Bland, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Botetourt, Virginia, US",02/21/2022,6978,7079,"Correct Botetourt, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Bristol, Virginia, US",02/21/2022,4260,4287,"Correct Bristol, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Brunswick, Virginia, US",02/21/2022,3005,3012,"Correct Brunswick, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Buchanan, Virginia, US",02/21/2022,4525,4563,"Correct Buchanan, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Buckingham, Virginia, US",02/21/2022,3738,3748,"Correct Buckingham, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Buena Vista, Virginia, US",02/21/2022,1950,1961,"Correct Buena Vista, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Campbell, Virginia, US",02/21/2022,10941,11024,"Correct Campbell, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Caroline, Virginia, US",02/21/2022,6679,6744,"Correct Caroline, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Carroll, Virginia, US",02/21/2022,6429,6458,"Correct Carroll, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Charlotte, Virginia, US",02/21/2022,2309,2324,"Correct Charlotte, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Charlottesville, Virginia, US",02/21/2022,9795,9831,"Correct Charlottesville, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Chesapeake, Virginia, US",02/21/2022,48851,48930,"Correct Chesapeake, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Chesterfield, Virginia, US",02/21/2022,69845,70086,"Correct Chesterfield, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Clarke, Virginia, US",02/21/2022,2559,2567,"Correct Clarke, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Colonial Heights, Virginia, US",02/21/2022,4704,4719,"Correct Colonial Heights, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Craig, Virginia, US",02/21/2022,1090,1098,"Correct Craig, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Culpeper, Virginia, US",02/21/2022,11383,11428,"Correct Culpeper, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Cumberland, Virginia, US",02/21/2022,1194,1198,"Correct Cumberland, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Danville, Virginia, US",02/21/2022,10627,10649,"Correct Danville, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Dickenson, Virginia, US",02/21/2022,3166,3199,"Correct Dickenson, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Dinwiddie, Virginia, US",02/21/2022,5123,5144,"Correct Dinwiddie, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Emporia, Virginia, US",02/21/2022,1095,1113,"Correct Emporia, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Essex, Virginia, US",02/21/2022,2212,2219,"Correct Essex, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Fairfax, Virginia, US",02/21/2022,171344,171799,"Correct Fairfax, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Fairfax City, Virginia, US",02/21/2022,1951,1952,"Correct Fairfax City, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Falls Church, Virginia, US",02/21/2022,1897,1913,"Correct Falls Church, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Fauquier, Virginia, US",02/21/2022,12665,12695,"Correct Fauquier, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Floyd, Virginia, US",02/21/2022,2411,2436,"Correct Floyd, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Fluvanna, Virginia, US",02/21/2022,4845,4857,"Correct Fluvanna, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Franklin, Virginia, US",02/21/2022,10524,10555,"Correct Franklin, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Franklin City, Virginia, US",02/21/2022,2443,2448,"Correct Franklin City, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Frederick, Virginia, US",02/21/2022,20103,20167,"Correct Frederick, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Fredericksburg, Virginia, US",02/21/2022,5287,5292,"Correct Fredericksburg, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Galax, Virginia, US",02/21/2022,2476,2498,"Correct Galax, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Giles, Virginia, US",02/21/2022,3905,3945,"Correct Giles, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Gloucester, Virginia, US",02/21/2022,7166,7183,"Correct Gloucester, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Goochland, Virginia, US",02/21/2022,3799,3805,"Correct Goochland, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Grayson, Virginia, US",02/21/2022,3842,3865,"Correct Grayson, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Greene, Virginia, US",02/21/2022,3889,3898,"Correct Greene, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Greensville, Virginia, US",02/21/2022,3257,3271,"Correct Greensville, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Halifax, Virginia, US",02/21/2022,6804,6831,"Correct Halifax, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Hampton, Virginia, US",02/21/2022,27026,27120,"Correct Hampton, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Hanover, Virginia, US",02/21/2022,20983,21053,"Correct Hanover, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Harrisonburg, Virginia, US",02/21/2022,13045,13083,"Correct Harrisonburg, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Henrico, Virginia, US",02/21/2022,62567,62798,"Correct Henrico, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Henry, Virginia, US",02/21/2022,11036,11159,"Correct Henry, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Highland, Virginia, US",02/21/2022,348,350,"Correct Highland, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Hopewell, Virginia, US",02/21/2022,6057,6086,"Correct Hopewell, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Isle of Wight, Virginia, US",02/21/2022,7184,7194,"Correct Isle of Wight, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"James City, Virginia, US",02/21/2022,14476,14545,"Correct James City, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"King George, Virginia, US",02/21/2022,4909,4927,"Correct King George, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"King William, Virginia, US",02/21/2022,3612,3630,"Correct King William, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"King and Queen, Virginia, US",02/21/2022,1103,1105,"Correct King and Queen, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Lancaster, Virginia, US",02/21/2022,1749,1759,"Correct Lancaster, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Lee, Virginia, US",02/21/2022,6012,6043,"Correct Lee, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Lexington, Virginia, US",02/21/2022,2769,2787,"Correct Lexington, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Loudoun, Virginia, US",02/21/2022,64804,64964,"Correct Loudoun, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Louisa, Virginia, US",02/21/2022,6327,6356,"Correct Louisa, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Lunenburg, Virginia, US",02/21/2022,2230,2235,"Correct Lunenburg, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Lynchburg, Virginia, US",02/21/2022,19197,19319,"Correct Lynchburg, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Madison, Virginia, US",02/21/2022,2024,2032,"Correct Madison, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Manassas,Virginia,US",02/21/2022,8788,8895,"Correct Manassas,Virginia,US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Manassas Park, Virginia, US",02/21/2022,3065,3285,"Correct Manassas Park, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Martinsville, Virginia, US",02/21/2022,3119,3162,"Correct Martinsville, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Mathews, Virginia, US",02/21/2022,1402,1406,"Correct Mathews, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Mecklenburg, Virginia, US",02/21/2022,5816,5830,"Correct Mecklenburg, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Middlesex, Virginia, US",02/21/2022,1770,1778,"Correct Middlesex, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Montgomery, Virginia, US",02/21/2022,18016,18107,"Correct Montgomery, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Nelson, Virginia, US",02/21/2022,2643,2653,"Correct Nelson, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"New Kent, Virginia, US",02/21/2022,4517,4526,"Correct New Kent, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Newport News, Virginia, US",02/21/2022,35644,35708,"Correct Newport News, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Norfolk, Virginia, US",02/21/2022,40908,41021,"Correct Norfolk, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Northampton, Virginia, US",02/21/2022,2121,2123,"Correct Northampton, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Northumberland, Virginia, US",02/21/2022,2126,2135,"Correct Northumberland, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Norton, Virginia, US",02/21/2022,1256,1266,"Correct Norton, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Nottoway, Virginia, US",02/21/2022,3901,3913,"Correct Nottoway, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Orange, Virginia, US",02/21/2022,6814,6839,"Correct Orange, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Page, Virginia, US",02/21/2022,5457,5479,"Correct Page, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Patrick, Virginia, US",02/21/2022,3443,3477,"Correct Patrick, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Petersburg, Virginia, US",02/21/2022,8179,8234,"Correct Petersburg, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Pittsylvania, Virginia, US",02/21/2022,12929,12962,"Correct Pittsylvania, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Poquoson, Virginia, US",02/21/2022,2298,2303,"Correct Poquoson, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Portsmouth, Virginia, US",02/21/2022,20458,20491,"Correct Portsmouth, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Powhatan, Virginia, US",02/21/2022,4746,4764,"Correct Powhatan, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Prince Edward, Virginia, US",02/21/2022,4553,4569,"Correct Prince Edward, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Prince George, Virginia, US",02/21/2022,7927,8019,"Correct Prince George, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Prince William, Virginia, US",02/21/2022,93559,93613,"Correct Prince William, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Pulaski, Virginia, US",02/21/2022,6958,7006,"Correct Pulaski, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Radford, Virginia, US",02/21/2022,4761,4793,"Correct Radford, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Rappahannock, Virginia, US",02/21/2022,914,916,"Correct Rappahannock, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Richmond, Virginia, US",02/21/2022,2599,2602,"Correct Richmond, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Richmond City, Virginia, US",02/21/2022,43235,43383,"Correct Richmond City, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Roanoke, Virginia, US",02/21/2022,19707,19745,"Correct Roanoke, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Roanoke City, Virginia, US",02/21/2022,20505,20580,"Correct Roanoke City, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Rockbridge, Virginia, US",02/21/2022,3142,3164,"Correct Rockbridge, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Rockingham, Virginia, US",02/21/2022,14205,14252,"Correct Rockingham, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Russell, Virginia, US",02/21/2022,6580,6633,"Correct Russell, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Salem, Virginia, US",02/21/2022,6730,6700,"Correct Salem, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Scott, Virginia, US",02/21/2022,5565,5595,"Correct Scott, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Shenandoah, Virginia, US",02/21/2022,10577,10622,"Correct Shenandoah, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Smyth, Virginia, US",02/21/2022,8363,8456,"Correct Smyth, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Southampton, Virginia, US",02/21/2022,3256,3258,"Correct Southampton, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Spotsylvania, Virginia, US",02/21/2022,26005,26072,"Correct Spotsylvania, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Stafford, Virginia, US",02/21/2022,29411,29494,"Correct Stafford, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Staunton, Virginia, US",02/21/2022,5460,5485,"Correct Staunton, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Suffolk, Virginia, US",02/21/2022,18406,18452,"Correct Suffolk, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Surry, Virginia, US",02/21/2022,1066,1068,"Correct Surry, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Sussex, Virginia, US",02/21/2022,2378,2391,"Correct Sussex, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Tazewell, Virginia, US",02/21/2022,9696,9739,"Correct Tazewell, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Virginia Beach, Virginia, US",02/21/2022,87908,88091,"Correct Virginia Beach, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Warren, Virginia, US",02/21/2022,8315,8336,"Correct Warren, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Washington, Virginia, US",02/21/2022,13346,13417,"Correct Washington, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Waynesboro, Virginia, US",02/21/2022,5207,5229,"Correct Waynesboro, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Westmoreland, Virginia, US",02/21/2022,3183,3193,"Correct Westmoreland, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Williamsburg, Virginia, US",02/21/2022,1669,1672,"Correct Williamsburg, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Winchester, Virginia, US",02/21/2022,6211,6224,"Correct Winchester, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Wise, Virginia, US",02/21/2022,9811,9888,"Correct Wise, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"Wythe, Virginia, US",02/21/2022,7232,7269,"Correct Wythe, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_confirmed_US.csv,"York, Virginia, US",02/21/2022,9549,9580,"Correct York, Virginia, US confirmed data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Albemarle, Virginia, US",02/21/2022,132,137,"Correct Albemarle, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Alexandria, Virginia, US",02/21/2022,177,179,"Correct Alexandria, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Amherst, Virginia, US",02/21/2022,79,80,"Correct Amherst, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Arlington, Virginia, US",02/21/2022,306,308,"Correct Arlington, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Augusta, Virginia, US",02/21/2022,184,185,"Correct Augusta, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Bedford, Virginia, US",02/21/2022,211,213,"Correct Bedford, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Botetourt, Virginia, US",02/21/2022,87,89,"Correct Botetourt, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Brunswick, Virginia, US",02/21/2022,38,39,"Correct Brunswick, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Campbell, Virginia, US",02/21/2022,184,188,"Correct Campbell, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Charlottesville, Virginia, US",02/21/2022,66,67,"Correct Charlottesville, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Chesapeake, Virginia, US",02/21/2022,436,441,"Correct Chesapeake, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Chesterfield, Virginia, US",02/21/2022,688,698,"Correct Chesterfield, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Culpeper, Virginia, US",02/21/2022,127,129,"Correct Culpeper, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Danville, Virginia, US",02/21/2022,237,241,"Correct Danville, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Fairfax, Virginia, US",02/21/2022,1331,1338,"Correct Fairfax, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Fairfax City, Virginia, US",02/21/2022,40,41,"Correct Fairfax City, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Fluvanna, Virginia, US",02/21/2022,37,38,"Correct Fluvanna, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Franklin, Virginia, US",02/21/2022,170,173,"Correct Franklin, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Frederick, Virginia, US",02/21/2022,222,224,"Correct Frederick, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Fredericksburg, Virginia, US",02/21/2022,32,33,"Correct Fredericksburg, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Greene, Virginia, US",02/21/2022,57,58,"Correct Greene, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Halifax, Virginia, US",02/21/2022,140,141,"Correct Halifax, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Hampton, Virginia, US",02/21/2022,283,287,"Correct Hampton, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Henrico, Virginia, US",02/21/2022,834,846,"Correct Henrico, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Isle of Wight, Virginia, US",02/21/2022,104,105,"Correct Isle of Wight, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"King William, Virginia, US",02/21/2022,31,32,"Correct King William, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"King and Queen, Virginia, US",02/21/2022,10,11,"Correct King and Queen, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Lee, Virginia, US",02/21/2022,80,82,"Correct Lee, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Lunenburg, Virginia, US",02/21/2022,27,28,"Correct Lunenburg, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Manassas,Virginia,US",02/21/2022,65,66,"Correct Manassas,Virginia,US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Manassas Park, Virginia, US",02/21/2022,19,23,"Correct Manassas Park, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Nelson, Virginia, US",02/21/2022,27,29,"Correct Nelson, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Newport News, Virginia, US",02/21/2022,357,358,"Correct Newport News, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Norfolk, Virginia, US",02/21/2022,438,441,"Correct Norfolk, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Northampton, Virginia, US",02/21/2022,55,56,"Correct Northampton, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Nottoway, Virginia, US",02/21/2022,79,80,"Correct Nottoway, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Page, Virginia, US",02/21/2022,110,111,"Correct Page, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Portsmouth, Virginia, US",02/21/2022,296,300,"Correct Portsmouth, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Prince Edward, Virginia, US",02/21/2022,59,60,"Correct Prince Edward, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Prince William, Virginia, US",02/21/2022,683,685,"Correct Prince William, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Richmond City, Virginia, US",02/21/2022,439,441,"Correct Richmond City, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Roanoke, Virginia, US",02/21/2022,241,242,"Correct Roanoke, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Roanoke City, Virginia, US",02/21/2022,319,320,"Correct Roanoke City, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Salem, Virginia, US",02/21/2022,103,104,"Correct Salem, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Smyth, Virginia, US",02/21/2022,156,158,"Correct Smyth, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Spotsylvania, Virginia, US",02/21/2022,259,263,"Correct Spotsylvania, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Stafford, Virginia, US",02/21/2022,148,149,"Correct Stafford, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Staunton, Virginia, US",02/21/2022,99,100,"Correct Staunton, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Suffolk, Virginia, US",02/21/2022,275,278,"Correct Suffolk, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Tazewell, Virginia, US",02/21/2022,146,148,"Correct Tazewell, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Virginia Beach, Virginia, US",02/21/2022,743,745,"Correct Virginia Beach, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Warren, Virginia, US",02/21/2022,137,138,"Correct Warren, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Washington, Virginia, US",02/21/2022,201,204,"Correct Washington, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Westmoreland, Virginia, US",02/21/2022,45,46,"Correct Westmoreland, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Winchester, Virginia, US",02/21/2022,73,74,"Correct Winchester, Virginia, US deaths data"
+02/24/2022,time_series_covid19_deaths_US.csv,"Wise, Virginia, US",02/21/2022,174,175,"Correct Wise, Virginia, US deaths data"
+02/24/2022,time_series_covid19_confirmed_global.csv,US,02/21/2022,78552290,78558198,Correct US confirmed data
+02/24/2022,time_series_covid19_deaths_global.csv,US,02/21/2022,936828,936957,Correct US deaths data
