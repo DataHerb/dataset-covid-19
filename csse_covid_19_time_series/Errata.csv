@@ -34353,3 +34353,5 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 03/02/2022,time_series_covid19_deaths_US.csv,"Unassigned, Wyoming, US",03/01/2022,273,0,"Correct Unassigned, Wyoming, US deaths data"
 03/02/2022,time_series_covid19_confirmed_global.csv,US,03/01/2022,79091264,79091347,Correct US confirmed data
 03/02/2022,time_series_covid19_deaths_global.csv,US,03/01/2022,952673,952423,Correct US deaths data
+03/03/2022,time_series_covid19_confirmed_global.csv,Georgia,01/12/2022,979235,973909,Correct Georgia confirmed data
+03/03/2022,time_series_covid19_deaths_global.csv,Georgia,01/12/2022,14359,14311,Correct Georgia deaths data
