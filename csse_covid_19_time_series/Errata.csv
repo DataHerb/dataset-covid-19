@@ -34356,3 +34356,25 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 03/03/2022,time_series_covid19_confirmed_global.csv,Georgia,01/12/2022,979235,973909,Correct Georgia confirmed data
 03/03/2022,time_series_covid19_deaths_global.csv,Georgia,01/12/2022,14359,14311,Correct Georgia deaths data
 03/04/2022,time_series_covid19_deaths_global.csv,France,02/21/2022,129715,133671,Correct France deaths data
+03/08/2022,time_series_covid19_cases_global.csv,"Northern Mariana Islands, US",03/05/2022,9999,10074,Correct Northern Mariana Islands confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Vanuatu,02/25/2022,19,18,Correct Vanuatu confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Vanuatu,02/26/2022,19,18,Correct Vanuatu confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Vanuatu,02/27/2022,19,18,Correct Vanuatu confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Vanuatu,02/28/2022,19,18,Correct Vanuatu confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Vanuatu,03/01/2022,19,18,Correct Vanuatu confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Vanuatu,03/02/2022,19,18,Correct Vanuatu confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Vanuatu,03/03/2022,19,18,Correct Vanuatu confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Peru,03/01/2022,3517260,3518721,Correct Peru confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Peru,03/02/2022,3518721,3520604,Correct Peru confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Peru,03/03/2022,3518721,3522484,Correct Peru confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Peru,03/04/2022,3522484,3524504,Correct Peru confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Peru,03/05/2022,3522484,3525940,Correct Peru confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Peru,03/06/2022,3522484,3527549,Correct Peru confirmed data
+03/08/2022,time_series_covid19_confirmed_global.csv,Peru,03/07/2022,3527549,3528038,Correct Peru confirmed data
+03/08/2022,time_series_covid19_deaths_global.csv,Peru,03/01/2022,210672,210744,Correct Peru deaths data
+03/08/2022,time_series_covid19_deaths_global.csv,Peru,03/02/2022,210744,210851,Correct Peru deaths data
+03/08/2022,time_series_covid19_deaths_global.csv,Peru,03/03/2022,210744,210907,Correct Peru deaths data
+03/08/2022,time_series_covid19_deaths_global.csv,Peru,03/04/2022,210907,210995,Correct Peru deaths data
+03/08/2022,time_series_covid19_deaths_global.csv,Peru,03/05/2022,210907,211032,Correct Peru deaths data
+03/08/2022,time_series_covid19_deaths_global.csv,Peru,03/06/2022,210907,211108,Correct Peru deaths data
+03/08/2022,time_series_covid19_deaths_global.csv,Peru,03/07/2022,211108,211155,Correct Peru deaths data
