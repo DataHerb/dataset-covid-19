@@ -34466,3 +34466,111 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 03/14/2022,time_series_covid19_deaths_global.csv,France,03/13/2022,136947,137025,Correct France deaths data
 03/15/2022,time_series_covid19_deaths_global.csv,Bahrain,02/21/2022,1498,1438,Correct Bahrain deaths data
 03/15/2022,time_series_covid19_deaths_global.csv,Singapore,03/08/2022,1084,1099,Correct Singapore deaths data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/17/2022,2,3,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/18/2022,2,3,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/19/2022,2,4,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/20/2022,2,4,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/21/2022,2,4,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/22/2022,2,4,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/23/2022,2,6,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/24/2022,2,6,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/25/2022,2,8,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/26/2022,2,8,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/27/2022,2,8,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,02/28/2022,2,10,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/01/2022,2,25,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/02/2022,2,53,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/03/2022,2,71,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/04/2022,2,84,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/05/2022,2,84,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/06/2022,2,84,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/07/2022,2,132,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/08/2022,2,141,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/09/2022,2,174,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/10/2022,2,206,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/11/2022,2,247,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/12/2022,2,247,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/13/2022,2,247,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/14/2022,2,338,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,New Zealand,03/15/2022,2,379,Correct New Zealand confirmed data
+03/16/2022,time_series_covid19_deaths_global.csv,US,03/11/2022,967165,967126,Correct US deaths data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,04/03/2020,195,183,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,04/08/2020,228,232,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,04/09/2020,232,236,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,04/18/2020,257,256,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,04/19/2020,257,256,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,04/20/2020,257,256,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,04/21/2020,257,256,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,05/07/2020,261,260,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,05/08/2020,261,260,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,05/09/2020,261,260,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,05/10/2020,261,260,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,05/11/2020,261,260,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,05/12/2020,261,260,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,05/13/2020,261,260,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,05/14/2020,261,260,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,12/14/2020,358,359,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/22/2021,940,939,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/23/2021,955,954,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/24/2021,963,962,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/25/2021,973,972,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/26/2021,977,976,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/27/2021,981,980,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/28/2021,988,987,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,04/11/2021,1030,1029,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,04/17/2021,1039,1042,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,10/02/2021,1796,1797,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,10/03/2021,1804,1805,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,11/17/2021,2027,2031,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,12/06/2021,2064,2071,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,12/18/2021,2152,2175,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,12/27/2021,2512,2869,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,12/28/2021,2512,3063,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,12/31/2021,3724,4155,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/01/2022,4155,4597,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/02/2022,4155,5063,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/08/2022,7537,7949,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/09/2022,7537,8316,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/15/2022,12092,12406,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/16/2022,12092,12790,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/22/2022,14522,14805,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/23/2022,14522,15166,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/24/2022,14522,15515,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/26/2022,15811,16115,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/29/2022,16758,16966,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,01/30/2022,16758,17176,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/05/2022,18242,18464,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/06/2022,18242,18574,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/12/2022,19710,19954,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/13/2022,19710,20191,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/19/2022,21307,21613,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/20/2022,21307,21737,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/22/2022,21974,22220,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/24/2022,22468,22755,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/26/2022,23147,23443,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,02/27/2022,23147,23699,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/01/2022,24026,24392,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/03/2022,24781,25278,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/05/2022,25728,26197,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/06/2022,25728,26529,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/07/2022,25728,26972,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/08/2022,26972,27507,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/10/2022,28103,28783,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/12/2022,29365,30100,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/13/2022,29365,30627,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/14/2022,29365,31070,Correct Canada confirmed data
+03/16/2022,time_series_covid19_confirmed_global.csv,Canada,03/15/2022,29365,31553,Correct Canada confirmed data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,04/06/2020,1,2,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,04/07/2020,1,2,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,04/08/2020,1,2,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,04/09/2020,2,3,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,12/31/2021,18,19,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,01/15/2022,24,25,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,01/16/2022,24,26,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,01/24/2022,30,31,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,01/26/2022,31,34,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,02/04/2022,45,46,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,02/05/2022,45,46,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,02/06/2022,45,46,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,03/07/2022,66,68,Correct Canada deaths data
+03/16/2022,time_series_covid19_deaths_global.csv,Canada,03/15/2022,76,78,Correct Canada deaths data
