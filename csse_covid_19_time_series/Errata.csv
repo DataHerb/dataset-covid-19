@@ -34920,3 +34920,129 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 03/30/2022,time_series_covid19_confirmed_global.csv,South Africa,03/23/2022,3705696,3707089,Correct South Africa confirmed data
 03/30/2022,time_series_covid19_deaths_global.csv,South Africa,03/18/2022,99829,99868,Correct South Africa deaths data
 03/30/2022,time_series_covid19_deaths_global.csv,South Africa,03/23/2022,99893,99899,Correct South Africa deaths data
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",02/24/2022,134214,134326,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/01/2022,134623,134678,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/02/2022,134623,134678,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/03/2022,134623,134678,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/04/2022,134623,134678,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/05/2022,134623,134678,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/06/2022,134623,134678,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/07/2022,134623,134678,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/08/2022,134623,135086,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/09/2022,134623,135086,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/10/2022,134623,135223,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/11/2022,134623,135223,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/12/2022,134623,135223,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/13/2022,134623,135223,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/14/2022,134623,135223,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/15/2022,134623,135223,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/16/2022,134623,135575,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/17/2022,134623,135681,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/18/2022,134623,135752,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/19/2022,134623,135752,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/20/2022,134623,135752,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/21/2022,134623,135884,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/22/2022,134623,135955,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/23/2022,134623,136062,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/24/2022,134623,136213,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/25/2022,134623,136322,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/26/2022,134623,136322,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/27/2022,134623,136322,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/28/2022,134623,136506,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/29/2022,134623,136598,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/30/2022,134623,136598,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_confirmed_US.csv,"District of Columbia,District of Columbia,US",03/31/2022,134623,136886,"Correct District of Columbia,District of Columbia,US confirmed data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/01/2022,1319,1321,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/02/2022,1319,1321,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/03/2022,1319,1321,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/04/2022,1319,1321,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/05/2022,1319,1321,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/06/2022,1319,1321,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/07/2022,1319,1321,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/08/2022,1319,1324,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/09/2022,1319,1324,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/10/2022,1319,1326,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/11/2022,1319,1326,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/12/2022,1319,1326,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/13/2022,1319,1326,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/14/2022,1319,1326,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/15/2022,1319,1326,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/16/2022,1319,1327,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/17/2022,1319,1327,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/18/2022,1319,1327,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/19/2022,1319,1327,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/20/2022,1319,1327,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/21/2022,1319,1329,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/22/2022,1319,1329,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/23/2022,1319,1329,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/24/2022,1319,1331,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/25/2022,1319,1331,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/26/2022,1319,1331,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/27/2022,1319,1331,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/28/2022,1319,1331,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/29/2022,1319,1331,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/30/2022,1319,1331,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",03/31/2022,1319,1333,"Correct District of Columbia,District of Columbia,US deaths data"
+04/01/2022,time_series_covid19_confirmed_global.csv,US,02/24/2022,78813539,78813651,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/01/2022,79099292,79099347,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/02/2022,79152708,79152763,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/03/2022,79201355,79201410,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/04/2022,79252657,79252712,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/05/2022,79267621,79267676,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/06/2022,79280036,79280091,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/07/2022,79344069,79344124,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/08/2022,79373398,79373861,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/09/2022,79411100,79411563,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/10/2022,79457564,79458164,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/11/2022,79507297,79507897,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/12/2022,79517552,79518152,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/13/2022,79528615,79529215,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/14/2022,79563956,79564556,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/15/2022,79588335,79588935,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/16/2022,79634118,79635070,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/17/2022,79687184,79688242,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/18/2022,79718429,79719558,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/19/2022,79729297,79730426,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/20/2022,79740731,79741860,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/21/2022,79782818,79784079,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/22/2022,79807274,79808606,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/23/2022,79847855,79849294,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/24/2022,79890649,79892239,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/25/2022,79937103,79938802,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/26/2022,79946405,79948104,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/27/2022,79957735,79959434,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/28/2022,79996109,79997992,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/29/2022,80020213,80022188,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/30/2022,80057179,80059154,Correct US confirmed data
+04/01/2022,time_series_covid19_confirmed_global.csv,US,03/31/2022,80099802,80102065,Correct US confirmed data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/01/2022,953537,953539,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/02/2022,955626,955628,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/03/2022,957329,957331,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/04/2022,959046,959048,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/05/2022,959335,959337,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/06/2022,959538,959540,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/07/2022,961266,961268,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/08/2022,962661,962666,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/09/2022,964674,964679,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/10/2022,966438,966445,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/11/2022,968072,968079,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/12/2022,968324,968331,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/13/2022,968510,968517,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/14/2022,966047,966054,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/15/2022,967124,967131,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/16/2022,968944,968952,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/17/2022,970444,970452,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/18/2022,971240,971248,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/19/2022,971508,971516,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/20/2022,971590,971598,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/21/2022,973116,973126,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/22/2022,973670,973680,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/23/2022,975295,975305,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/24/2022,976146,976158,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/25/2022,976757,976769,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/26/2022,976898,976910,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/27/2022,976951,976963,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/28/2022,977936,977948,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/29/2022,978897,978909,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/30/2022,980118,980130,Correct US deaths data
+04/01/2022,time_series_covid19_deaths_global.csv,US,03/31/2022,980624,980638,Correct US deaths data
